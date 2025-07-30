@@ -1,0 +1,1992 @@
+command: ./svp_tool L_112 --ind_l 2 --ind_r 110 --msd 100 --threads 64 -v 4 
+begin bgj1 sieve, sieving dimension = 46, pool size = 6213
+search0: 68 buckets not used
+solution collect done, found 3150 solutions in 96 buckets, bucket time = 0.000653s, search time = 0.000282s
+search0: 65 buckets not used
+solution collect done, found 2458 solutions in 96 buckets, bucket time = 0.000578s, search time = 0.000155s
+sieving done.
+bucket time = 0.001231s, search time = 0.000437s, sort time = 0.000624s, insert time = 0.000736s
+bucket0 speed: 155970.755483 bucket/s, 83.029512 GFLOPS
+search0 speed: 439359.267735 bucket/s, 107.004258 GFLOPS
+num bucket = 192, avg bucket size = 138
+bucket cost = 212 dp/sol, search cost = 97 dp/sol
+try_add2 = 5639, try_add3 = 2302, succ_add2 = 3806(1/1.48), succ_add3 = 1802(1/1.28)
+
+
+begin bgj1 sieve, sieving dimension = 47, pool size = 6213
+sieving done.
+bucket time = 0.000000s, search time = 0.000000s, sort time = 0.000504s, insert time = 0.000000s
+bucket0 speed: -nan bucket/s, -nan GFLOPS
+search0 speed: -nan bucket/s, -nan GFLOPS
+num bucket = 0, avg bucket size = 0
+bucket cost = 0 dp/sol, search cost = 0 dp/sol
+try_add2 = 0, try_add3 = 0, succ_add2 = 0(1/inf), succ_add3 = 0(1/inf)
+
+
+begin bgj1 sieve, sieving dimension = 48, pool size = 6213
+search0: 64 buckets not used
+solution collect done, found 7207 solutions in 96 buckets, bucket time = 0.001078s, search time = 0.000444s
+sieving done.
+bucket time = 0.001078s, search time = 0.000444s, sort time = 0.000420s, insert time = 0.003383s
+bucket0 speed: 89053.803340 bucket/s, 49.468095 GFLOPS
+search0 speed: 216216.216216 bucket/s, 91.946004 GFLOPS
+num bucket = 96, avg bucket size = 158
+bucket cost = 82 dp/sol, search cost = 63 dp/sol
+try_add2 = 6644, try_add3 = 1858, succ_add2 = 5550(1/1.20), succ_add3 = 1657(1/1.12)
+
+
+begin bgj1 sieve, sieving dimension = 49, pool size = 6213
+search0: 69 buckets not used
+solution collect done, found 4622 solutions in 96 buckets, bucket time = 0.000915s, search time = 0.000519s
+search0: 62 buckets not used
+solution collect done, found 2844 solutions in 96 buckets, bucket time = 0.004902s, search time = 0.000186s
+search0: 55 buckets not used
+solution collect done, found 2644 solutions in 96 buckets, bucket time = 0.000774s, search time = 0.000247s
+sieving done.
+bucket time = 0.006591s, search time = 0.000952s, sort time = 0.000845s, insert time = 0.006695s
+bucket0 speed: 43695.949021 bucket/s, 24.778142 GFLOPS
+search0 speed: 302521.008403 bucket/s, 104.707529 GFLOPS
+num bucket = 288, avg bucket size = 145
+bucket cost = 176 dp/sol, search cost = 108 dp/sol
+try_add2 = 10778, try_add3 = 3113, succ_add2 = 7638(1/1.41), succ_add3 = 2472(1/1.26)
+
+
+begin bgj1 sieve, sieving dimension = 50, pool size = 6213
+search0: 64 buckets not used
+solution collect done, found 2674 solutions in 96 buckets, bucket time = 0.001043s, search time = 0.000160s
+search0: 55 buckets not used
+solution collect done, found 2268 solutions in 96 buckets, bucket time = 0.009605s, search time = 0.000459s
+sieving done.
+bucket time = 0.010648s, search time = 0.000619s, sort time = 0.000812s, insert time = 0.000755s
+bucket0 speed: 18031.555222 bucket/s, 10.433612 GFLOPS
+search0 speed: 310177.705977 bucket/s, 71.952869 GFLOPS
+num bucket = 192, avg bucket size = 108
+bucket cost = 241 dp/sol, search cost = 96 dp/sol
+try_add2 = 5426, try_add3 = 1899, succ_add2 = 3619(1/1.50), succ_add3 = 1323(1/1.44)
+
+
+begin bgj1 sieve, sieving dimension = 51, pool size = 6213
+search0: 59 buckets not used
+solution collect done, found 2806 solutions in 96 buckets, bucket time = 0.001345s, search time = 0.000375s
+search0: 48 buckets not used
+solution collect done, found 2102 solutions in 96 buckets, bucket time = 0.000824s, search time = 0.000291s
+sieving done.
+bucket time = 0.002169s, search time = 0.000666s, sort time = 0.000518s, insert time = 0.001238s
+bucket0 speed: 88520.055325 bucket/s, 52.244831 GFLOPS
+search0 speed: 288288.288288 bucket/s, 77.720522 GFLOPS
+num bucket = 192, avg bucket size = 108
+bucket cost = 243 dp/sol, search cost = 111 dp/sol
+try_add2 = 5584, try_add3 = 1835, succ_add2 = 3620(1/1.54), succ_add3 = 1288(1/1.42)
+
+
+begin bgj1 sieve, sieving dimension = 52, pool size = 6213
+search0: 45 buckets not used
+solution collect done, found 2216 solutions in 96 buckets, bucket time = 0.001369s, search time = 0.000223s
+search0: 27 buckets not used
+solution collect done, found 1876 solutions in 96 buckets, bucket time = 0.000768s, search time = 0.000308s
+search0: 16 buckets not used
+solution collect done, found 1662 solutions in 96 buckets, bucket time = 0.000750s, search time = 0.000324s
+sieving done.
+bucket time = 0.002887s, search time = 0.000855s, sort time = 0.000579s, insert time = 0.001020s
+bucket0 speed: 99757.533772 bucket/s, 60.031684 GFLOPS
+search0 speed: 336842.105263 bucket/s, 129.001566 GFLOPS
+num bucket = 288, avg bucket size = 106
+bucket cost = 310 dp/sol, search cost = 197 dp/sol
+try_add2 = 8401, try_add3 = 2576, succ_add2 = 4185(1/2.01), succ_add3 = 1569(1/1.64)
+
+
+begin bgj1 sieve, sieving dimension = 53, pool size = 6213
+search0: 32 buckets not used
+solution collect done, found 2109 solutions in 96 buckets, bucket time = 0.004813s, search time = 0.000265s
+sieving done.
+bucket time = 0.004813s, search time = 0.000265s, sort time = 0.000425s, insert time = 0.000290s
+bucket0 speed: 19945.979638 bucket/s, 12.233838 GFLOPS
+search0 speed: 362264.150943 bucket/s, 72.657689 GFLOPS
+num bucket = 96, avg bucket size = 80
+bucket cost = 282 dp/sol, search cost = 92 dp/sol
+try_add2 = 2427, try_add3 = 865, succ_add2 = 1525(1/1.59), succ_add3 = 584(1/1.48)
+
+
+begin bgj1 sieve, sieving dimension = 54, pool size = 6546
+search0: 21 buckets not used
+solution collect done, found 3154 solutions in 96 buckets, bucket time = 0.000709s, search time = 0.000305s
+search0: 28 buckets not used
+solution collect done, found 2211 solutions in 96 buckets, bucket time = 0.010847s, search time = 0.000356s
+solution collect done, found 1964 solutions in 96 buckets, bucket time = 0.000647s, search time = 0.000325s
+sieving done.
+bucket time = 0.012203s, search time = 0.000986s, sort time = 0.000920s, insert time = 0.001054s
+bucket0 speed: 23600.753913 bucket/s, 17.142224 GFLOPS
+search0 speed: 292089.249493 bucket/s, 165.801832 GFLOPS
+num bucket = 288, avg bucket size = 113
+bucket cost = 283 dp/sol, search cost = 221 dp/sol
+try_add2 = 11178, try_add3 = 3379, succ_add2 = 5395(1/2.07), succ_add3 = 1934(1/1.75)
+
+
+begin bgj1 sieve, sieving dimension = 55, pool size = 7559
+solution collect done, found 3470 solutions in 96 buckets, bucket time = 0.000750s, search time = 0.000476s
+search0: 4 buckets not used
+solution collect done, found 2509 solutions in 96 buckets, bucket time = 0.000657s, search time = 0.000335s
+solution collect done, found 1908 solutions in 96 buckets, bucket time = 0.000627s, search time = 0.000366s
+sieving done.
+bucket time = 0.002034s, search time = 0.001177s, sort time = 0.003080s, insert time = 0.001009s
+bucket0 speed: 141592.920354 bucket/s, 120.961824 GFLOPS
+search0 speed: 244689.889550 bucket/s, 148.448989 GFLOPS
+num bucket = 288, avg bucket size = 109
+bucket cost = 304 dp/sol, search cost = 216 dp/sol
+try_add2 = 12151, try_add3 = 3966, succ_add2 = 5704(1/2.13), succ_add3 = 2183(1/1.82)
+
+
+begin bgj1 sieve, sieving dimension = 56, pool size = 8729
+solution collect done, found 3678 solutions in 96 buckets, bucket time = 0.002343s, search time = 0.000321s
+solution collect done, found 2934 solutions in 96 buckets, bucket time = 0.000663s, search time = 0.000366s
+sieving done.
+bucket time = 0.003006s, search time = 0.000687s, sort time = 0.002570s, insert time = 0.000762s
+bucket0 speed: 63872.255489 bucket/s, 62.653167 GFLOPS
+search0 speed: 279475.982533 bucket/s, 186.206103 GFLOPS
+num bucket = 192, avg bucket size = 109
+bucket cost = 273 dp/sol, search cost = 185 dp/sol
+try_add2 = 9227, try_add3 = 2963, succ_add2 = 4922(1/1.87), succ_add3 = 1690(1/1.75)
+
+
+begin bgj1 sieve, sieving dimension = 57, pool size = 10079
+solution collect done, found 4479 solutions in 96 buckets, bucket time = 0.000781s, search time = 0.000333s
+search0: 4 buckets not used
+solution collect done, found 3270 solutions in 96 buckets, bucket time = 0.000574s, search time = 0.005471s
+solution collect done, found 2329 solutions in 96 buckets, bucket time = 0.000673s, search time = 0.000444s
+sieving done.
+bucket time = 0.002028s, search time = 0.006248s, sort time = 0.004020s, insert time = 0.006286s
+bucket0 speed: 142011.834320 bucket/s, 167.636741 GFLOPS
+search0 speed: 46094.750320 bucket/s, 44.189319 GFLOPS
+num bucket = 288, avg bucket size = 132
+bucket cost = 317 dp/sol, search cost = 258 dp/sol
+try_add2 = 14853, try_add3 = 4469, succ_add2 = 7443(1/2.00), succ_add3 = 2635(1/1.70)
+
+
+begin bgj1 sieve, sieving dimension = 58, pool size = 11638
+solution collect done, found 4810 solutions in 96 buckets, bucket time = 0.000779s, search time = 0.000431s
+solution collect done, found 3407 solutions in 96 buckets, bucket time = 0.002443s, search time = 0.000536s
+solution collect done, found 2319 solutions in 96 buckets, bucket time = 0.000714s, search time = 0.000502s
+sieving done.
+bucket time = 0.003936s, search time = 0.001469s, sort time = 0.003862s, insert time = 0.001298s
+bucket0 speed: 73170.731707 bucket/s, 101.488174 GFLOPS
+search0 speed: 196051.735875 bucket/s, 230.227084 GFLOPS
+num bucket = 288, avg bucket size = 144
+bucket cost = 350 dp/sol, search cost = 297 dp/sol
+try_add2 = 15663, try_add3 = 4466, succ_add2 = 7877(1/1.99), succ_add3 = 2659(1/1.68)
+
+
+begin bgj1 sieve, sieving dimension = 59, pool size = 13439
+solution collect done, found 3056 solutions in 96 buckets, bucket time = 0.000982s, search time = 0.000338s
+solution collect done, found 2730 solutions in 96 buckets, bucket time = 0.000705s, search time = 0.000456s
+sieving done.
+bucket time = 0.001687s, search time = 0.000794s, sort time = 0.003255s, insert time = 0.000735s
+bucket0 speed: 113811.499704 bucket/s, 180.963835 GFLOPS
+search0 speed: 241813.602015 bucket/s, 292.693910 GFLOPS
+num bucket = 192, avg bucket size = 147
+bucket cost = 480 dp/sol, search cost = 365 dp/sol
+try_add2 = 8839, try_add3 = 2640, succ_add2 = 4265(1/2.07), succ_add3 = 1521(1/1.74)
+
+
+begin bgj1 sieve, sieving dimension = 60, pool size = 15516
+solution collect done, found 3172 solutions in 96 buckets, bucket time = 0.005123s, search time = 0.000375s
+solution collect done, found 3025 solutions in 96 buckets, bucket time = 0.003676s, search time = 0.000512s
+sieving done.
+bucket time = 0.008799s, search time = 0.000887s, sort time = 0.003555s, insert time = 0.000765s
+bucket0 speed: 21820.661439 bucket/s, 40.746166 GFLOPS
+search0 speed: 216459.977452 bucket/s, 308.620100 GFLOPS
+num bucket = 192, avg bucket size = 157
+bucket cost = 517 dp/sol, search cost = 395 dp/sol
+try_add2 = 9484, try_add3 = 2892, succ_add2 = 4572(1/2.07), succ_add3 = 1625(1/1.78)
+
+
+begin bgj1 sieve, sieving dimension = 61, pool size = 17918
+solution collect done, found 3631 solutions in 96 buckets, bucket time = 0.001915s, search time = 0.000996s
+solution collect done, found 3370 solutions in 96 buckets, bucket time = 0.000552s, search time = 0.000690s
+solution collect done, found 2478 solutions in 96 buckets, bucket time = 0.000569s, search time = 0.000762s
+solution collect done, found 2184 solutions in 96 buckets, bucket time = 0.010567s, search time = 0.000809s
+sieving done.
+bucket time = 0.013603s, search time = 0.003257s, sort time = 0.004293s, insert time = 0.001599s
+bucket0 speed: 28229.067118 bucket/s, 64.099583 GFLOPS
+search0 speed: 117899.907891 bucket/s, 262.373126 GFLOPS
+num bucket = 384, avg bucket size = 194
+bucket cost = 657 dp/sol, search cost = 644 dp/sol
+try_add2 = 20512, try_add3 = 5424, succ_add2 = 8649(1/2.37), succ_add3 = 3014(1/1.80)
+
+
+begin bgj1 sieve, sieving dimension = 62, pool size = 20679
+solution collect done, found 3241 solutions in 96 buckets, bucket time = 0.000602s, search time = 0.000593s
+solution collect done, found 3287 solutions in 96 buckets, bucket time = 0.000582s, search time = 0.000563s
+solution collect done, found 2550 solutions in 96 buckets, bucket time = 0.000586s, search time = 0.000631s
+sieving done.
+bucket time = 0.001770s, search time = 0.001787s, sort time = 0.007138s, insert time = 0.001076s
+bucket0 speed: 162711.864407 bucket/s, 428.538807 GFLOPS
+search0 speed: 161163.961947 bucket/s, 318.770994 GFLOPS
+num bucket = 288, avg bucket size = 183
+bucket cost = 723 dp/sol, search cost = 543 dp/sol
+try_add2 = 14538, try_add3 = 4127, succ_add2 = 6814(1/2.13), succ_add3 = 2264(1/1.82)
+
+
+begin bgj1 sieve, sieving dimension = 63, pool size = 23882
+solution collect done, found 3723 solutions in 96 buckets, bucket time = 0.005833s, search time = 0.000641s
+solution collect done, found 3623 solutions in 96 buckets, bucket time = 0.000616s, search time = 0.000634s
+solution collect done, found 2840 solutions in 96 buckets, bucket time = 0.000683s, search time = 0.000696s
+sieving done.
+bucket time = 0.007132s, search time = 0.001971s, sort time = 0.004467s, insert time = 0.001253s
+bucket0 speed: 40381.379697 bucket/s, 124.819974 GFLOPS
+search0 speed: 146118.721461 bucket/s, 410.423729 GFLOPS
+num bucket = 288, avg bucket size = 213
+bucket cost = 744 dp/sol, search cost = 676 dp/sol
+try_add2 = 16604, try_add3 = 4169, succ_add2 = 7782(1/2.13), succ_add3 = 2404(1/1.73)
+
+
+begin bgj1 sieve, sieving dimension = 64, pool size = 27576
+solution collect done, found 4041 solutions in 96 buckets, bucket time = 0.004606s, search time = 0.000793s
+solution collect done, found 3893 solutions in 96 buckets, bucket time = 0.002699s, search time = 0.000764s
+solution collect done, found 3318 solutions in 96 buckets, bucket time = 0.004605s, search time = 0.000850s
+solution collect done, found 2860 solutions in 96 buckets, bucket time = 0.015635s, search time = 0.001197s
+sieving done.
+bucket time = 0.027545s, search time = 0.003604s, sort time = 0.008792s, insert time = 0.001732s
+bucket0 speed: 13940.824106 bucket/s, 51.048668 GFLOPS
+search0 speed: 106548.279689 bucket/s, 355.605942 GFLOPS
+num bucket = 384, avg bucket size = 231
+bucket cost = 835 dp/sol, search cost = 761 dp/sol
+try_add2 = 22987, try_add3 = 5852, succ_add2 = 10599(1/2.17), succ_add3 = 3513(1/1.67)
+
+
+begin bgj1 sieve, sieving dimension = 65, pool size = 31847
+solution collect done, found 4532 solutions in 96 buckets, bucket time = 0.002094s, search time = 0.005450s
+solution collect done, found 4519 solutions in 96 buckets, bucket time = 0.012063s, search time = 0.001538s
+solution collect done, found 3559 solutions in 96 buckets, bucket time = 0.004490s, search time = 0.001107s
+solution collect done, found 2829 solutions in 96 buckets, bucket time = 0.006542s, search time = 0.001081s
+solution collect done, found 2566 solutions in 96 buckets, bucket time = 0.001028s, search time = 0.007234s
+sieving done.
+bucket time = 0.026217s, search time = 0.016410s, sort time = 0.008366s, insert time = 0.002677s
+bucket0 speed: 18308.730976 bucket/s, 79.142337 GFLOPS
+search0 speed: 29250.457038 bucket/s, 115.002889 GFLOPS
+num bucket = 480, avg bucket size = 249
+bucket cost = 951 dp/sol, search cost = 865 dp/sol
+try_add2 = 29681, try_add3 = 7214, succ_add2 = 13674(1/2.17), succ_add3 = 4331(1/1.67)
+
+
+begin bgj1 sieve, sieving dimension = 66, pool size = 36772
+solution collect done, found 4586 solutions in 96 buckets, bucket time = 0.015104s, search time = 0.005419s
+solution collect done, found 4439 solutions in 96 buckets, bucket time = 0.004316s, search time = 0.000810s
+solution collect done, found 3715 solutions in 96 buckets, bucket time = 0.005296s, search time = 0.000982s
+solution collect done, found 3162 solutions in 96 buckets, bucket time = 0.005939s, search time = 0.000972s
+solution collect done, found 2724 solutions in 96 buckets, bucket time = 0.000848s, search time = 0.004965s
+sieving done.
+bucket time = 0.031503s, search time = 0.013148s, sort time = 0.005352s, insert time = 0.001942s
+bucket0 speed: 15236.644129 bucket/s, 76.973226 GFLOPS
+search0 speed: 36507.453605 bucket/s, 168.231643 GFLOPS
+num bucket = 480, avg bucket size = 266
+bucket cost = 1059 dp/sol, search cost = 965 dp/sol
+try_add2 = 30774, try_add3 = 7224, succ_add2 = 14281(1/2.15), succ_add3 = 4345(1/1.66)
+
+
+begin bgj1 sieve, sieving dimension = 67, pool size = 42461
+solution collect done, found 5390 solutions in 96 buckets, bucket time = 0.013754s, search time = 0.000705s
+solution collect done, found 5389 solutions in 96 buckets, bucket time = 0.000796s, search time = 0.001197s
+solution collect done, found 4517 solutions in 96 buckets, bucket time = 0.012295s, search time = 0.001335s
+solution collect done, found 3455 solutions in 96 buckets, bucket time = 0.029240s, search time = 0.002439s
+solution collect done, found 3182 solutions in 96 buckets, bucket time = 0.010190s, search time = 0.002842s
+solution collect done, found 2793 solutions in 96 buckets, bucket time = 0.001498s, search time = 0.002743s
+sieving done.
+bucket time = 0.067773s, search time = 0.011261s, sort time = 0.008660s, insert time = 0.009352s
+bucket0 speed: 8498.959763 bucket/s, 50.629965 GFLOPS
+search0 speed: 51149.986680 bucket/s, 294.440706 GFLOPS
+num bucket = 576, avg bucket size = 297
+bucket cost = 1112 dp/sol, search cost = 1074 dp/sol
+try_add2 = 41099, try_add3 = 9655, succ_add2 = 18858(1/2.18), succ_add3 = 5868(1/1.65)
+
+
+begin bgj1 sieve, sieving dimension = 68, pool size = 49018
+solution collect done, found 4990 solutions in 96 buckets, bucket time = 0.002093s, search time = 0.017468s
+solution collect done, found 5068 solutions in 96 buckets, bucket time = 0.059910s, search time = 0.015990s
+solution collect done, found 4358 solutions in 96 buckets, bucket time = 0.055926s, search time = 0.011996s
+solution collect done, found 4038 solutions in 96 buckets, bucket time = 0.050320s, search time = 0.007969s
+solution collect done, found 3442 solutions in 96 buckets, bucket time = 0.034235s, search time = 0.007981s
+solution collect done, found 3009 solutions in 96 buckets, bucket time = 0.007994s, search time = 0.007389s
+sieving done.
+bucket time = 0.210478s, search time = 0.068793s, sort time = 0.018971s, insert time = 0.130996s
+bucket0 speed: 2736.628056 bucket/s, 19.031223 GFLOPS
+search0 speed: 8372.944922 bucket/s, 53.665339 GFLOPS
+num bucket = 576, avg bucket size = 311
+bucket cost = 1269 dp/sol, search cost = 1170 dp/sol
+try_add2 = 41063, try_add3 = 9467, succ_add2 = 19041(1/2.16), succ_add3 = 5864(1/1.61)
+
+
+begin bgj1 sieve, sieving dimension = 69, pool size = 56595
+solution collect done, found 5087 solutions in 96 buckets, bucket time = 0.012285s, search time = 0.002197s
+solution collect done, found 5042 solutions in 96 buckets, bucket time = 0.007364s, search time = 0.002880s
+solution collect done, found 4727 solutions in 96 buckets, bucket time = 0.003436s, search time = 0.003211s
+solution collect done, found 4536 solutions in 96 buckets, bucket time = 0.007527s, search time = 0.009401s
+solution collect done, found 3564 solutions in 96 buckets, bucket time = 0.002263s, search time = 0.004541s
+solution collect done, found 3358 solutions in 96 buckets, bucket time = 0.019140s, search time = 0.006269s
+sieving done.
+bucket time = 0.052015s, search time = 0.028499s, sort time = 0.011510s, insert time = 0.020126s
+bucket0 speed: 11073.728732 bucket/s, 90.074865 GFLOPS
+search0 speed: 20211.235482 bucket/s, 162.608595 GFLOPS
+num bucket = 576, avg bucket size = 344
+bucket cost = 1385 dp/sol, search cost = 1370 dp/sol
+try_add2 = 44098, try_add3 = 9399, succ_add2 = 20347(1/2.17), succ_add3 = 5967(1/1.58)
+
+
+begin bgj1 sieve, sieving dimension = 70, pool size = 65386
+solution collect done, found 6476 solutions in 96 buckets, bucket time = 0.003826s, search time = 0.003184s
+solution collect done, found 6193 solutions in 96 buckets, bucket time = 0.004594s, search time = 0.003480s
+solution collect done, found 5915 solutions in 96 buckets, bucket time = 0.023540s, search time = 0.004173s
+solution collect done, found 4731 solutions in 96 buckets, bucket time = 0.003159s, search time = 0.005357s
+solution collect done, found 4484 solutions in 96 buckets, bucket time = 0.024026s, search time = 0.007506s
+solution collect done, found 3817 solutions in 96 buckets, bucket time = 0.003207s, search time = 0.007444s
+solution collect done, found 3663 solutions in 96 buckets, bucket time = 0.002923s, search time = 0.005928s
+sieving done.
+bucket time = 0.065275s, search time = 0.037072s, sort time = 0.019329s, insert time = 0.008657s
+bucket0 speed: 10294.906166 bucket/s, 98.689951 GFLOPS
+search0 speed: 18126.888218 bucket/s, 179.814318 GFLOPS
+num bucket = 672, avg bucket size = 379
+bucket cost = 1400 dp/sol, search cost = 1449 dp/sol
+try_add2 = 57953, try_add3 = 11598, succ_add2 = 27796(1/2.08), succ_add3 = 7483(1/1.55)
+
+
+begin bgj1 sieve, sieving dimension = 71, pool size = 75499
+solution collect done, found 6658 solutions in 96 buckets, bucket time = 0.002403s, search time = 0.004172s
+solution collect done, found 7236 solutions in 96 buckets, bucket time = 0.002121s, search time = 0.002850s
+solution collect done, found 7076 solutions in 96 buckets, bucket time = 0.003117s, search time = 0.004103s
+solution collect done, found 5562 solutions in 96 buckets, bucket time = 0.011301s, search time = 0.003421s
+solution collect done, found 4832 solutions in 96 buckets, bucket time = 0.005177s, search time = 0.003498s
+solution collect done, found 4267 solutions in 96 buckets, bucket time = 0.001764s, search time = 0.003139s
+solution collect done, found 4648 solutions in 96 buckets, bucket time = 0.009532s, search time = 0.003514s
+solution collect done, found 3523 solutions in 96 buckets, bucket time = 0.006073s, search time = 0.003105s
+solution collect done, found 3738 solutions in 96 buckets, bucket time = 0.001539s, search time = 0.003328s
+solution collect done, found 3090 solutions in 96 buckets, bucket time = 0.006459s, search time = 0.003308s
+sieving done.
+bucket time = 0.049486s, search time = 0.034438s, sort time = 0.020575s, insert time = 0.027008s
+bucket0 speed: 19399.426100 bucket/s, 219.365004 GFLOPS
+search0 speed: 27876.183286 bucket/s, 354.747377 GFLOPS
+num bucket = 960, avg bucket size = 426
+bucket cost = 1621 dp/sol, search cost = 1824 dp/sol
+try_add2 = 87353, try_add3 = 16590, succ_add2 = 39848(1/2.19), succ_add3 = 10782(1/1.54)
+
+
+begin bgj1 sieve, sieving dimension = 72, pool size = 87155
+solution collect done, found 6069 solutions in 96 buckets, bucket time = 0.001330s, search time = 0.002170s
+solution collect done, found 6290 solutions in 96 buckets, bucket time = 0.001840s, search time = 0.002515s
+solution collect done, found 5848 solutions in 96 buckets, bucket time = 0.004547s, search time = 0.002434s
+solution collect done, found 5626 solutions in 96 buckets, bucket time = 0.003240s, search time = 0.002760s
+solution collect done, found 4864 solutions in 96 buckets, bucket time = 0.001978s, search time = 0.002546s
+solution collect done, found 5138 solutions in 96 buckets, bucket time = 0.036676s, search time = 0.022105s
+solution collect done, found 4106 solutions in 96 buckets, bucket time = 0.004593s, search time = 0.005813s
+solution collect done, found 4043 solutions in 96 buckets, bucket time = 0.063653s, search time = 0.012389s
+solution collect done, found 3550 solutions in 96 buckets, bucket time = 0.002700s, search time = 0.006755s
+solution collect done, found 3644 solutions in 96 buckets, bucket time = 0.002610s, search time = 0.005425s
+sieving done.
+bucket time = 0.123167s, search time = 0.064912s, sort time = 0.021408s, insert time = 0.034250s
+bucket0 speed: 7794.295550 bucket/s, 102.897837 GFLOPS
+search0 speed: 14789.253143 bucket/s, 204.885068 GFLOPS
+num bucket = 960, avg bucket size = 443
+bucket cost = 1921 dp/sol, search cost = 2016 dp/sol
+try_add2 = 84937, try_add3 = 15809, succ_add2 = 38687(1/2.20), succ_add3 = 10491(1/1.51)
+
+
+begin bgj1 sieve, sieving dimension = 73, pool size = 100670
+solution collect done, found 7709 solutions in 96 buckets, bucket time = 0.002938s, search time = 0.005674s
+solution collect done, found 7272 solutions in 96 buckets, bucket time = 0.005605s, search time = 0.006045s
+solution collect done, found 7442 solutions in 96 buckets, bucket time = 0.097618s, search time = 0.006763s
+solution collect done, found 5763 solutions in 96 buckets, bucket time = 0.005105s, search time = 0.006444s
+solution collect done, found 6789 solutions in 96 buckets, bucket time = 0.003347s, search time = 0.011243s
+solution collect done, found 5211 solutions in 96 buckets, bucket time = 0.003669s, search time = 0.008515s
+solution collect done, found 5160 solutions in 96 buckets, bucket time = 0.019903s, search time = 0.008552s
+solution collect done, found 4421 solutions in 96 buckets, bucket time = 0.002730s, search time = 0.022429s
+solution collect done, found 4507 solutions in 96 buckets, bucket time = 0.018836s, search time = 0.007982s
+solution collect done, found 3986 solutions in 96 buckets, bucket time = 0.003622s, search time = 0.010150s
+solution collect done, found 3903 solutions in 96 buckets, bucket time = 0.005606s, search time = 0.016445s
+sieving done.
+bucket time = 0.168979s, search time = 0.110242s, sort time = 0.036810s, insert time = 0.049828s
+bucket0 speed: 6249.297250 bucket/s, 96.903850 GFLOPS
+search0 speed: 9578.926362 bucket/s, 163.585902 GFLOPS
+num bucket = 1056, avg bucket size = 488
+bucket cost = 1937 dp/sol, search cost = 2133 dp/sol
+try_add2 = 104963, try_add3 = 19074, succ_add2 = 49379(1/2.13), succ_add3 = 12784(1/1.49)
+
+
+begin bgj1 sieve, sieving dimension = 74, pool size = 116246
+solution collect done, found 8589 solutions in 96 buckets, bucket time = 0.004211s, search time = 0.006787s
+solution collect done, found 8457 solutions in 96 buckets, bucket time = 0.048704s, search time = 0.012866s
+solution collect done, found 7743 solutions in 96 buckets, bucket time = 0.002579s, search time = 0.005007s
+solution collect done, found 6987 solutions in 96 buckets, bucket time = 0.002773s, search time = 0.007703s
+solution collect done, found 6240 solutions in 96 buckets, bucket time = 0.014926s, search time = 0.007065s
+solution collect done, found 6432 solutions in 96 buckets, bucket time = 0.002853s, search time = 0.009120s
+solution collect done, found 5508 solutions in 96 buckets, bucket time = 0.006437s, search time = 0.010816s
+solution collect done, found 5438 solutions in 96 buckets, bucket time = 0.004769s, search time = 0.010812s
+solution collect done, found 4666 solutions in 96 buckets, bucket time = 0.038661s, search time = 0.015956s
+solution collect done, found 4715 solutions in 96 buckets, bucket time = 0.014270s, search time = 0.008009s
+solution collect done, found 4111 solutions in 96 buckets, bucket time = 0.002972s, search time = 0.009758s
+sieving done.
+bucket time = 0.143155s, search time = 0.103899s, sort time = 0.027337s, insert time = 0.055093s
+bucket0 speed: 7376.619748 bucket/s, 133.843757 GFLOPS
+search0 speed: 10163.716686 bucket/s, 205.457773 GFLOPS
+num bucket = 1056, avg bucket size = 525
+bucket cost = 2017 dp/sol, search cost = 2248 dp/sol
+try_add2 = 114237, try_add3 = 20251, succ_add2 = 55204(1/2.07), succ_add3 = 13682(1/1.48)
+
+
+begin bgj1 sieve, sieving dimension = 75, pool size = 134220
+solution collect done, found 9407 solutions in 96 buckets, bucket time = 0.016233s, search time = 0.011272s
+solution collect done, found 9325 solutions in 96 buckets, bucket time = 0.003343s, search time = 0.016051s
+solution collect done, found 9336 solutions in 96 buckets, bucket time = 0.022934s, search time = 0.007482s
+solution collect done, found 7272 solutions in 96 buckets, bucket time = 0.003641s, search time = 0.011279s
+solution collect done, found 8304 solutions in 96 buckets, bucket time = 0.004660s, search time = 0.013302s
+solution collect done, found 6615 solutions in 96 buckets, bucket time = 0.004698s, search time = 0.015882s
+solution collect done, found 6409 solutions in 96 buckets, bucket time = 0.004802s, search time = 0.012386s
+solution collect done, found 5491 solutions in 96 buckets, bucket time = 0.003596s, search time = 0.018237s
+solution collect done, found 5828 solutions in 96 buckets, bucket time = 0.031807s, search time = 0.022841s
+solution collect done, found 4761 solutions in 96 buckets, bucket time = 0.003775s, search time = 0.011746s
+solution collect done, found 4975 solutions in 96 buckets, bucket time = 0.003525s, search time = 0.011913s
+solution collect done, found 4174 solutions in 96 buckets, bucket time = 0.004666s, search time = 0.018991s
+solution collect done, found 4289 solutions in 96 buckets, bucket time = 0.003829s, search time = 0.017129s
+solution collect done, found 7096 solutions in 192 buckets, bucket time = 0.057066s, search time = 0.047274s
+sieving done.
+bucket time = 0.168575s, search time = 0.235785s, sort time = 0.035923s, insert time = 0.077828s
+bucket0 speed: 8542.191903 bucket/s, 182.215112 GFLOPS
+search0 speed: 6107.258731 bucket/s, 156.877571 GFLOPS
+num bucket = 1440, avg bucket size = 589
+bucket cost = 2357 dp/sol, search cost = 2838 dp/sol
+try_add2 = 162822, try_add3 = 27575, succ_add2 = 74797(1/2.18), succ_add3 = 18485(1/1.49)
+
+
+begin bgj1 sieve, sieving dimension = 76, pool size = 154985
+solution collect done, found 8736 solutions in 96 buckets, bucket time = 0.045408s, search time = 0.011859s
+solution collect done, found 8715 solutions in 96 buckets, bucket time = 0.003466s, search time = 0.009944s
+solution collect done, found 8517 solutions in 96 buckets, bucket time = 0.006890s, search time = 0.010385s
+solution collect done, found 10335 solutions in 96 buckets, bucket time = 0.006384s, search time = 0.022034s
+solution collect done, found 7657 solutions in 96 buckets, bucket time = 0.017788s, search time = 0.033685s
+solution collect done, found 7698 solutions in 96 buckets, bucket time = 0.036239s, search time = 0.018552s
+solution collect done, found 6502 solutions in 96 buckets, bucket time = 0.005123s, search time = 0.023435s
+solution collect done, found 6664 solutions in 96 buckets, bucket time = 0.004396s, search time = 0.023295s
+solution collect done, found 5430 solutions in 96 buckets, bucket time = 0.006758s, search time = 0.025774s
+solution collect done, found 5611 solutions in 96 buckets, bucket time = 0.011530s, search time = 0.014830s
+solution collect done, found 5093 solutions in 96 buckets, bucket time = 0.019178s, search time = 0.030011s
+solution collect done, found 4669 solutions in 96 buckets, bucket time = 0.004605s, search time = 0.018857s
+solution collect done, found 8496 solutions in 192 buckets, bucket time = 0.047951s, search time = 0.031471s
+solution collect done, found 4606 solutions in 96 buckets, bucket time = 0.005549s, search time = 0.015308s
+sieving done.
+bucket time = 0.221265s, search time = 0.289440s, sort time = 0.071527s, insert time = 0.108623s
+bucket0 speed: 6508.033354 bucket/s, 162.054762 GFLOPS
+search0 speed: 4975.124378 bucket/s, 142.362931 GFLOPS
+num bucket = 1440, avg bucket size = 618
+bucket cost = 2565 dp/sol, search cost = 2948 dp/sol
+try_add2 = 166609, try_add3 = 27727, succ_add2 = 79457(1/2.10), succ_add3 = 19272(1/1.44)
+
+
+begin bgj1 sieve, sieving dimension = 77, pool size = 178849
+solution collect done, found 8331 solutions in 96 buckets, bucket time = 0.043556s, search time = 0.017134s
+solution collect done, found 11272 solutions in 96 buckets, bucket time = 0.003279s, search time = 0.008588s
+solution collect done, found 9533 solutions in 96 buckets, bucket time = 0.005390s, search time = 0.019961s
+solution collect done, found 11037 solutions in 96 buckets, bucket time = 0.004730s, search time = 0.019936s
+solution collect done, found 8280 solutions in 96 buckets, bucket time = 0.005173s, search time = 0.030600s
+solution collect done, found 8545 solutions in 96 buckets, bucket time = 0.012470s, search time = 0.017974s
+solution collect done, found 6935 solutions in 96 buckets, bucket time = 0.004849s, search time = 0.023587s
+solution collect done, found 7206 solutions in 96 buckets, bucket time = 0.004494s, search time = 0.020661s
+solution collect done, found 5976 solutions in 96 buckets, bucket time = 0.006355s, search time = 0.019559s
+solution collect done, found 6313 solutions in 96 buckets, bucket time = 0.005801s, search time = 0.029716s
+solution collect done, found 5332 solutions in 96 buckets, bucket time = 0.021452s, search time = 0.016335s
+solution collect done, found 5681 solutions in 96 buckets, bucket time = 0.005388s, search time = 0.022274s
+solution collect done, found 9795 solutions in 192 buckets, bucket time = 0.028196s, search time = 0.072345s
+solution collect done, found 9613 solutions in 192 buckets, bucket time = 0.009286s, search time = 0.058643s
+sieving done.
+bucket time = 0.160419s, search time = 0.377313s, sort time = 0.070368s, insert time = 0.091123s
+bucket0 speed: 9574.925663 bucket/s, 278.999924 GFLOPS
+search0 speed: 4070.890746 bucket/s, 141.862495 GFLOPS
+num bucket = 1536, avg bucket size = 675
+bucket cost = 2741 dp/sol, search cost = 3278 dp/sol
+try_add2 = 192187, try_add3 = 30538, succ_add2 = 92307(1/2.08), succ_add3 = 21542(1/1.42)
+
+
+begin bgj1 sieve, sieving dimension = 78, pool size = 206619
+solution collect done, found 9175 solutions in 96 buckets, bucket time = 0.031402s, search time = 0.012888s
+solution collect done, found 12110 solutions in 96 buckets, bucket time = 0.021408s, search time = 0.015655s
+solution collect done, found 10731 solutions in 96 buckets, bucket time = 0.005569s, search time = 0.018376s
+solution collect done, found 12319 solutions in 96 buckets, bucket time = 0.048982s, search time = 0.020491s
+solution collect done, found 9266 solutions in 96 buckets, bucket time = 0.005541s, search time = 0.028539s
+solution collect done, found 9392 solutions in 96 buckets, bucket time = 0.005554s, search time = 0.017647s
+solution collect done, found 7502 solutions in 96 buckets, bucket time = 0.023833s, search time = 0.029927s
+solution collect done, found 8134 solutions in 96 buckets, bucket time = 0.004197s, search time = 0.021680s
+solution collect done, found 6561 solutions in 96 buckets, bucket time = 0.013217s, search time = 0.021063s
+solution collect done, found 6480 solutions in 96 buckets, bucket time = 0.004563s, search time = 0.035539s
+solution collect done, found 6228 solutions in 96 buckets, bucket time = 0.039884s, search time = 0.025811s
+solution collect done, found 6105 solutions in 96 buckets, bucket time = 0.005719s, search time = 0.018115s
+solution collect done, found 10678 solutions in 192 buckets, bucket time = 0.010757s, search time = 0.046300s
+solution collect done, found 10855 solutions in 192 buckets, bucket time = 0.035191s, search time = 0.054507s
+solution collect done, found 9055 solutions in 192 buckets, bucket time = 0.008323s, search time = 0.047913s
+sieving done.
+bucket time = 0.264140s, search time = 0.414451s, sort time = 0.049037s, insert time = 0.149473s
+bucket0 speed: 6541.985311 bucket/s, 223.289158 GFLOPS
+search0 speed: 4169.371047 bucket/s, 177.362596 GFLOPS
+num bucket = 1728, avg bucket size = 743
+bucket cost = 3016 dp/sol, search cost = 3759 dp/sol
+try_add2 = 230957, try_add3 = 34911, succ_add2 = 109943(1/2.10), succ_add3 = 24648(1/1.42)
+
+
+begin bgj1 sieve, sieving dimension = 79, pool size = 238634
+solution collect done, found 9729 solutions in 96 buckets, bucket time = 0.035720s, search time = 0.009727s
+solution collect done, found 14088 solutions in 96 buckets, bucket time = 0.019584s, search time = 0.018274s
+solution collect done, found 10531 solutions in 96 buckets, bucket time = 0.005811s, search time = 0.024904s
+solution collect done, found 12934 solutions in 96 buckets, bucket time = 0.040296s, search time = 0.019747s
+solution collect done, found 10315 solutions in 96 buckets, bucket time = 0.006594s, search time = 0.019469s
+solution collect done, found 10596 solutions in 96 buckets, bucket time = 0.005641s, search time = 0.040106s
+solution collect done, found 8830 solutions in 96 buckets, bucket time = 0.048772s, search time = 0.018590s
+solution collect done, found 9489 solutions in 96 buckets, bucket time = 0.005177s, search time = 0.026528s
+solution collect done, found 7628 solutions in 96 buckets, bucket time = 0.007575s, search time = 0.031986s
+solution collect done, found 8146 solutions in 96 buckets, bucket time = 0.006605s, search time = 0.028386s
+solution collect done, found 13229 solutions in 192 buckets, bucket time = 0.024468s, search time = 0.048729s
+solution collect done, found 7027 solutions in 96 buckets, bucket time = 0.005254s, search time = 0.045938s
+solution collect done, found 11810 solutions in 192 buckets, bucket time = 0.011165s, search time = 0.051235s
+solution collect done, found 11176 solutions in 192 buckets, bucket time = 0.045507s, search time = 0.055923s
+solution collect done, found 9553 solutions in 192 buckets, bucket time = 0.017453s, search time = 0.051835s
+solution collect done, found 9807 solutions in 192 buckets, bucket time = 0.026047s, search time = 0.054836s
+sieving done.
+bucket time = 0.311669s, search time = 0.546213s, sort time = 0.110545s, insert time = 0.156835s
+bucket0 speed: 6468.400771 bucket/s, 258.611305 GFLOPS
+search0 speed: 3690.867848 bucket/s, 189.039681 GFLOPS
+num bucket = 2016, avg bucket size = 809
+bucket cost = 3321 dp/sol, search cost = 4255 dp/sol
+try_add2 = 287856, try_add3 = 42309, succ_add2 = 135145(1/2.13), succ_add3 = 29743(1/1.42)
+
+
+begin bgj1 sieve, sieving dimension = 80, pool size = 275559
+solution collect done, found 11464 solutions in 96 buckets, bucket time = 0.068470s, search time = 0.022487s
+solution collect done, found 15329 solutions in 96 buckets, bucket time = 0.006041s, search time = 0.015626s
+solution collect done, found 11267 solutions in 96 buckets, bucket time = 0.006701s, search time = 0.020546s
+solution collect done, found 14167 solutions in 96 buckets, bucket time = 0.006915s, search time = 0.032463s
+solution collect done, found 11038 solutions in 96 buckets, bucket time = 0.049073s, search time = 0.014914s
+solution collect done, found 11061 solutions in 96 buckets, bucket time = 0.017271s, search time = 0.020141s
+solution collect done, found 10083 solutions in 96 buckets, bucket time = 0.007486s, search time = 0.027205s
+solution collect done, found 9923 solutions in 96 buckets, bucket time = 0.023138s, search time = 0.031735s
+solution collect done, found 8148 solutions in 96 buckets, bucket time = 0.022954s, search time = 0.044087s
+solution collect done, found 8451 solutions in 96 buckets, bucket time = 0.006845s, search time = 0.027994s
+solution collect done, found 14242 solutions in 192 buckets, bucket time = 0.034296s, search time = 0.082873s
+solution collect done, found 15249 solutions in 192 buckets, bucket time = 0.012733s, search time = 0.055907s
+solution collect done, found 12808 solutions in 192 buckets, bucket time = 0.023666s, search time = 0.083128s
+solution collect done, found 12073 solutions in 192 buckets, bucket time = 0.013059s, search time = 0.060608s
+solution collect done, found 10484 solutions in 192 buckets, bucket time = 0.035809s, search time = 0.061834s
+solution collect done, found 10738 solutions in 192 buckets, bucket time = 0.035087s, search time = 0.061860s
+solution collect done, found 9214 solutions in 192 buckets, bucket time = 0.027200s, search time = 0.048169s
+sieving done.
+bucket time = 0.396744s, search time = 0.711577s, sort time = 0.078702s, insert time = 0.199988s
+bucket0 speed: 5807.271187 bucket/s, 271.895037 GFLOPS
+search0 speed: 3237.878684 bucket/s, 195.742085 GFLOPS
+num bucket = 2304, avg bucket size = 874
+bucket cost = 3698 dp/sol, search cost = 4775 dp/sol
+try_add2 = 342607, try_add3 = 49214, succ_add2 = 161055(1/2.13), succ_add3 = 34684(1/1.42)
+
+
+begin bgj2 sieve, sieving dimension = 81, pool size = 318184
+solution collect done, found 28635 solutions in 5256 buckets, bucket-0 time = 0.141206s, bucket-1 time = 0.013498s, search-0 time = 0.008264s, search-1 time = 0.054000s
+solution collect done, found 25135 solutions in 5256 buckets, bucket-0 time = 0.050210s, bucket-1 time = 0.024557s, search-0 time = 0.006305s, search-1 time = 0.045083s
+solution collect done, found 24395 solutions in 5256 buckets, bucket-0 time = 0.038305s, bucket-1 time = 0.017663s, search-0 time = 0.007751s, search-1 time = 0.061590s
+solution collect done, found 20473 solutions in 5256 buckets, bucket-0 time = 0.063834s, bucket-1 time = 0.014751s, search-0 time = 0.001870s, search-1 time = 0.030312s
+solution collect done, found 18501 solutions in 5256 buckets, bucket-0 time = 0.022581s, bucket-1 time = 0.016575s, search-0 time = 0.003060s, search-1 time = 0.067090s
+solution collect done, found 16415 solutions in 5256 buckets, bucket-0 time = 0.007454s, bucket-1 time = 0.016277s, search-0 time = 0.002272s, search-1 time = 0.053295s
+solution collect done, found 16886 solutions in 5256 buckets, bucket-0 time = 0.013016s, bucket-1 time = 0.016739s, search-0 time = 0.003264s, search-1 time = 0.051261s
+solution collect done, found 13763 solutions in 5256 buckets, bucket-0 time = 0.008351s, bucket-1 time = 0.009769s, search-0 time = 0.003432s, search-1 time = 0.045996s
+solution collect done, found 14713 solutions in 5256 buckets, bucket-0 time = 0.008630s, bucket-1 time = 0.011799s, search-0 time = 0.017787s, search-1 time = 0.040064s
+solution collect done, found 11745 solutions in 5256 buckets, bucket-0 time = 0.006949s, bucket-1 time = 0.010603s, search-0 time = 0.005714s, search-1 time = 0.047503s
+sieving done.
+bucket-0 time = 0.360536s, bucket-1 time = 0.152231s, search-0 time = 0.059719s, search-1 time = 0.496194s
+sort time = 0.071383s, insert time = 0.120583s
+bucket0 speed: 1997.026649 bucket/s, 108.562094 GFLOPS
+bucket1 speed: 340535.107830 bucket/s, 327.503234 GFLOPS
+search0 speed: 12056.464442 bucket/s, 53.185468 GFLOPS
+search1 speed: 104475.265723 bucket/s, 262.556247 GFLOPS
+num bucket0 = 720, avg bucket0 size = 6374, num bucket1 = 51840, avg bucket1 size = 175
+bucket cost = 3093 dp/sol, search cost = 4639 dp/sol
+try_add2 = 624152, try_add3 = 5375, succ_add2 = 187970(1/3.32), succ_add3 = 2691(1/2.00)
+
+
+begin bgj2 sieve, sieving dimension = 82, pool size = 367376
+solution collect done, found 29567 solutions in 5256 buckets, bucket-0 time = 0.009199s, bucket-1 time = 0.012160s, search-0 time = 0.003763s, search-1 time = 0.058815s
+solution collect done, found 27763 solutions in 5256 buckets, bucket-0 time = 0.035851s, bucket-1 time = 0.015611s, search-0 time = 0.004081s, search-1 time = 0.028068s
+solution collect done, found 25595 solutions in 5256 buckets, bucket-0 time = 0.025667s, bucket-1 time = 0.015761s, search-0 time = 0.002319s, search-1 time = 0.077765s
+solution collect done, found 23419 solutions in 5256 buckets, bucket-0 time = 0.066130s, bucket-1 time = 0.019731s, search-0 time = 0.011949s, search-1 time = 0.036000s
+solution collect done, found 20443 solutions in 5256 buckets, bucket-0 time = 0.023956s, bucket-1 time = 0.013690s, search-0 time = 0.006272s, search-1 time = 0.071989s
+solution collect done, found 20972 solutions in 5256 buckets, bucket-0 time = 0.011305s, bucket-1 time = 0.014218s, search-0 time = 0.003581s, search-1 time = 0.066452s
+solution collect done, found 18117 solutions in 5256 buckets, bucket-0 time = 0.019330s, bucket-1 time = 0.013145s, search-0 time = 0.003322s, search-1 time = 0.052230s
+solution collect done, found 17824 solutions in 5256 buckets, bucket-0 time = 0.008682s, bucket-1 time = 0.015679s, search-0 time = 0.003134s, search-1 time = 0.050648s
+solution collect done, found 14423 solutions in 5256 buckets, bucket-0 time = 0.007621s, bucket-1 time = 0.009432s, search-0 time = 0.006155s, search-1 time = 0.059068s
+solution collect done, found 14943 solutions in 5256 buckets, bucket-0 time = 0.006662s, bucket-1 time = 0.008412s, search-0 time = 0.005482s, search-1 time = 0.042114s
+solution collect done, found 12818 solutions in 5256 buckets, bucket-0 time = 0.012450s, bucket-1 time = 0.008879s, search-0 time = 0.004514s, search-1 time = 0.032483s
+sieving done.
+bucket-0 time = 0.226853s, bucket-1 time = 0.146718s, search-0 time = 0.054572s, search-1 time = 0.575632s
+sort time = 0.082907s, insert time = 0.098749s
+bucket0 speed: 3491.247636 bucket/s, 222.083513 GFLOPS
+bucket1 speed: 388663.967611 bucket/s, 424.970989 GFLOPS
+search0 speed: 14512.937037 bucket/s, 76.753750 GFLOPS
+search1 speed: 99063.290436 bucket/s, 299.966843 GFLOPS
+num bucket0 = 792, avg bucket0 size = 7158, num bucket1 = 57024, avg bucket1 size = 191
+bucket cost = 3267 dp/sol, search cost = 5126 dp/sol
+try_add2 = 749002, try_add3 = 5820, succ_add2 = 222942(1/3.36), succ_add3 = 2942(1/1.98)
+
+
+begin bgj2 sieve, sieving dimension = 83, pool size = 424179
+solution collect done, found 27425 solutions in 5256 buckets, bucket-0 time = 0.005274s, bucket-1 time = 0.011419s, search-0 time = 0.002216s, search-1 time = 0.033097s
+solution collect done, found 26740 solutions in 5256 buckets, bucket-0 time = 0.009103s, bucket-1 time = 0.008713s, search-0 time = 0.003672s, search-1 time = 0.040039s
+solution collect done, found 26559 solutions in 5256 buckets, bucket-0 time = 0.018772s, bucket-1 time = 0.010013s, search-0 time = 0.000660s, search-1 time = 0.026409s
+solution collect done, found 24305 solutions in 5256 buckets, bucket-0 time = 0.029760s, bucket-1 time = 0.013884s, search-0 time = 0.002291s, search-1 time = 0.083621s
+solution collect done, found 25995 solutions in 5256 buckets, bucket-0 time = 0.079519s, bucket-1 time = 0.027988s, search-0 time = 0.007951s, search-1 time = 0.060002s
+solution collect done, found 19270 solutions in 5256 buckets, bucket-0 time = 0.063253s, bucket-1 time = 0.011036s, search-0 time = 0.006152s, search-1 time = 0.053626s
+solution collect done, found 19876 solutions in 5256 buckets, bucket-0 time = 0.032976s, bucket-1 time = 0.018627s, search-0 time = 0.004962s, search-1 time = 0.058460s
+solution collect done, found 16838 solutions in 5256 buckets, bucket-0 time = 0.012620s, bucket-1 time = 0.012163s, search-0 time = 0.005411s, search-1 time = 0.067486s
+solution collect done, found 16541 solutions in 5256 buckets, bucket-0 time = 0.009955s, bucket-1 time = 0.014327s, search-0 time = 0.005141s, search-1 time = 0.043183s
+solution collect done, found 14735 solutions in 5256 buckets, bucket-0 time = 0.012699s, bucket-1 time = 0.009233s, search-0 time = 0.004865s, search-1 time = 0.037578s
+solution collect done, found 14397 solutions in 5256 buckets, bucket-0 time = 0.006592s, bucket-1 time = 0.008428s, search-0 time = 0.002112s, search-1 time = 0.029178s
+solution collect done, found 12647 solutions in 5256 buckets, bucket-0 time = 0.010687s, bucket-1 time = 0.009729s, search-0 time = 0.004588s, search-1 time = 0.025883s
+solution collect done, found 13123 solutions in 5256 buckets, bucket-0 time = 0.009193s, bucket-1 time = 0.010091s, search-0 time = 0.001020s, search-1 time = 0.019197s
+sieving done.
+bucket-0 time = 0.300403s, bucket-1 time = 0.165651s, search-0 time = 0.051041s, search-1 time = 0.577759s
+sort time = 0.062844s, insert time = 0.093680s
+bucket0 speed: 3115.814423 bucket/s, 231.623941 GFLOPS
+bucket1 speed: 406831.229513 bucket/s, 509.225290 GFLOPS
+search0 speed: 18338.198703 bucket/s, 118.797505 GFLOPS
+search1 speed: 116643.790923 bucket/s, 435.602945 GFLOPS
+num bucket0 = 936, avg bucket0 size = 8096, num bucket1 = 67392, avg bucket1 size = 211
+bucket cost = 3852 dp/sol, search cost = 6450 dp/sol
+try_add2 = 917347, try_add3 = 6946, succ_add2 = 255043(1/3.60), succ_add3 = 3408(1/2.04)
+
+
+begin bgj2 sieve, sieving dimension = 84, pool size = 489852
+solution collect done, found 28735 solutions in 5256 buckets, bucket-0 time = 0.048481s, bucket-1 time = 0.010826s, search-0 time = 0.006599s, search-1 time = 0.056439s
+solution collect done, found 28059 solutions in 5256 buckets, bucket-0 time = 0.064323s, bucket-1 time = 0.017345s, search-0 time = 0.006598s, search-1 time = 0.033258s
+solution collect done, found 27114 solutions in 5256 buckets, bucket-0 time = 0.016440s, bucket-1 time = 0.012821s, search-0 time = 0.003847s, search-1 time = 0.070864s
+solution collect done, found 32564 solutions in 5256 buckets, bucket-0 time = 0.075559s, bucket-1 time = 0.016317s, search-0 time = 0.002835s, search-1 time = 0.081070s
+solution collect done, found 22562 solutions in 5256 buckets, bucket-0 time = 0.011260s, bucket-1 time = 0.021768s, search-0 time = 0.003366s, search-1 time = 0.077854s
+solution collect done, found 25291 solutions in 5256 buckets, bucket-0 time = 0.025359s, bucket-1 time = 0.012959s, search-0 time = 0.016153s, search-1 time = 0.041900s
+solution collect done, found 20405 solutions in 5256 buckets, bucket-0 time = 0.059525s, bucket-1 time = 0.014696s, search-0 time = 0.006113s, search-1 time = 0.056070s
+solution collect done, found 20654 solutions in 5256 buckets, bucket-0 time = 0.029733s, bucket-1 time = 0.012231s, search-0 time = 0.005129s, search-1 time = 0.063310s
+solution collect done, found 16830 solutions in 5256 buckets, bucket-0 time = 0.010172s, bucket-1 time = 0.015748s, search-0 time = 0.007696s, search-1 time = 0.055804s
+solution collect done, found 18378 solutions in 5256 buckets, bucket-0 time = 0.010225s, bucket-1 time = 0.036435s, search-0 time = 0.027908s, search-1 time = 0.059039s
+solution collect done, found 14956 solutions in 5256 buckets, bucket-0 time = 0.057958s, bucket-1 time = 0.015817s, search-0 time = 0.004090s, search-1 time = 0.047068s
+solution collect done, found 14951 solutions in 5256 buckets, bucket-0 time = 0.022523s, bucket-1 time = 0.013003s, search-0 time = 0.007927s, search-1 time = 0.081782s
+solution collect done, found 14155 solutions in 5256 buckets, bucket-0 time = 0.012511s, bucket-1 time = 0.016726s, search-0 time = 0.007738s, search-1 time = 0.060127s
+sieving done.
+bucket-0 time = 0.444069s, bucket-1 time = 0.216692s, search-0 time = 0.105999s, search-1 time = 0.784585s
+sort time = 0.130925s, insert time = 0.201474s
+bucket0 speed: 2107.780548 bucket/s, 182.882775 GFLOPS
+bucket1 speed: 311003.636498 bucket/s, 427.621197 GFLOPS
+search0 speed: 8830.271984 bucket/s, 62.491387 GFLOPS
+search1 speed: 85895.091035 bucket/s, 355.736681 GFLOPS
+num bucket0 = 936, avg bucket0 size = 8787, num bucket1 = 67392, avg bucket1 size = 220
+bucket cost = 3903 dp/sol, search cost = 6415 dp/sol
+try_add2 = 948667, try_add3 = 7153, succ_add2 = 281038(1/3.38), succ_add3 = 3616(1/1.98)
+
+
+begin bgj2 sieve, sieving dimension = 85, pool size = 565611
+solution collect done, found 36402 solutions in 5256 buckets, bucket-0 time = 0.021796s, bucket-1 time = 0.026913s, search-0 time = 0.003405s, search-1 time = 0.058586s
+solution collect done, found 35309 solutions in 5256 buckets, bucket-0 time = 0.031730s, bucket-1 time = 0.014706s, search-0 time = 0.006187s, search-1 time = 0.044761s
+solution collect done, found 34642 solutions in 5256 buckets, bucket-0 time = 0.024225s, bucket-1 time = 0.020135s, search-0 time = 0.003694s, search-1 time = 0.056549s
+solution collect done, found 29867 solutions in 5256 buckets, bucket-0 time = 0.035770s, bucket-1 time = 0.011441s, search-0 time = 0.014746s, search-1 time = 0.087205s
+solution collect done, found 31265 solutions in 5256 buckets, bucket-0 time = 0.014099s, bucket-1 time = 0.014962s, search-0 time = 0.005792s, search-1 time = 0.048066s
+solution collect done, found 24826 solutions in 5256 buckets, bucket-0 time = 0.031608s, bucket-1 time = 0.017058s, search-0 time = 0.006311s, search-1 time = 0.048038s
+solution collect done, found 25674 solutions in 5256 buckets, bucket-0 time = 0.030938s, bucket-1 time = 0.014059s, search-0 time = 0.007482s, search-1 time = 0.058358s
+solution collect done, found 20136 solutions in 5256 buckets, bucket-0 time = 0.011729s, bucket-1 time = 0.017964s, search-0 time = 0.003756s, search-1 time = 0.066443s
+solution collect done, found 20975 solutions in 5256 buckets, bucket-0 time = 0.042926s, bucket-1 time = 0.012346s, search-0 time = 0.010475s, search-1 time = 0.048040s
+solution collect done, found 18744 solutions in 5256 buckets, bucket-0 time = 0.021170s, bucket-1 time = 0.016960s, search-0 time = 0.009574s, search-1 time = 0.049089s
+solution collect done, found 18237 solutions in 5256 buckets, bucket-0 time = 0.011832s, bucket-1 time = 0.014608s, search-0 time = 0.010096s, search-1 time = 0.093351s
+solution collect done, found 31205 solutions in 10512 buckets, bucket-0 time = 0.054898s, bucket-1 time = 0.033490s, search-0 time = 0.012714s, search-1 time = 0.100973s
+solution collect done, found 32439 solutions in 10512 buckets, bucket-0 time = 0.044984s, bucket-1 time = 0.026874s, search-0 time = 0.015560s, search-1 time = 0.131003s
+solution collect done, found 26887 solutions in 10512 buckets, bucket-0 time = 0.023289s, bucket-1 time = 0.027540s, search-0 time = 0.018681s, search-1 time = 0.111290s
+sieving done.
+bucket-0 time = 0.400994s, bucket-1 time = 0.269056s, search-0 time = 0.128473s, search-1 time = 1.001752s
+sort time = 0.135726s, insert time = 0.109870s
+bucket0 speed: 3052.414749 bucket/s, 311.198036 GFLOPS
+bucket1 speed: 327545.195052 bucket/s, 520.680204 GFLOPS
+search0 speed: 9527.293673 bucket/s, 83.578006 GFLOPS
+search1 speed: 87973.869780 bucket/s, 465.364344 GFLOPS
+num bucket0 = 1224, avg bucket0 size = 10040, num bucket1 = 88128, avg bucket1 size = 247
+bucket cost = 4327 dp/sol, search cost = 7791 dp/sol
+try_add2 = 1341190, try_add3 = 9236, succ_add2 = 381991(1/3.51), succ_add3 = 4617(1/2.00)
+
+
+begin bgj2 sieve, sieving dimension = 86, pool size = 653140
+solution collect done, found 36729 solutions in 5256 buckets, bucket-0 time = 0.016098s, bucket-1 time = 0.017922s, search-0 time = 0.008770s, search-1 time = 0.065343s
+solution collect done, found 34005 solutions in 5256 buckets, bucket-0 time = 0.018792s, bucket-1 time = 0.012631s, search-0 time = 0.007361s, search-1 time = 0.077409s
+solution collect done, found 43324 solutions in 5256 buckets, bucket-0 time = 0.030990s, bucket-1 time = 0.014307s, search-0 time = 0.015203s, search-1 time = 0.058047s
+solution collect done, found 33090 solutions in 5256 buckets, bucket-0 time = 0.094911s, bucket-1 time = 0.016007s, search-0 time = 0.007937s, search-1 time = 0.056248s
+solution collect done, found 35979 solutions in 5256 buckets, bucket-0 time = 0.020302s, bucket-1 time = 0.013892s, search-0 time = 0.010975s, search-1 time = 0.059232s
+solution collect done, found 27396 solutions in 5256 buckets, bucket-0 time = 0.052589s, bucket-1 time = 0.024000s, search-0 time = 0.007917s, search-1 time = 0.072728s
+solution collect done, found 28049 solutions in 5256 buckets, bucket-0 time = 0.016013s, bucket-1 time = 0.027363s, search-0 time = 0.019919s, search-1 time = 0.066257s
+solution collect done, found 24486 solutions in 5256 buckets, bucket-0 time = 0.029181s, bucket-1 time = 0.015343s, search-0 time = 0.015243s, search-1 time = 0.078191s
+solution collect done, found 23517 solutions in 5256 buckets, bucket-0 time = 0.011308s, bucket-1 time = 0.015925s, search-0 time = 0.007191s, search-1 time = 0.052611s
+solution collect done, found 20333 solutions in 5256 buckets, bucket-0 time = 0.031310s, bucket-1 time = 0.022464s, search-0 time = 0.003882s, search-1 time = 0.053679s
+solution collect done, found 21281 solutions in 5256 buckets, bucket-0 time = 0.011137s, bucket-1 time = 0.020573s, search-0 time = 0.015959s, search-1 time = 0.067121s
+solution collect done, found 36379 solutions in 10512 buckets, bucket-0 time = 0.028793s, bucket-1 time = 0.029150s, search-0 time = 0.015560s, search-1 time = 0.141568s
+solution collect done, found 18983 solutions in 5256 buckets, bucket-0 time = 0.042872s, bucket-1 time = 0.021330s, search-0 time = 0.004715s, search-1 time = 0.061905s
+solution collect done, found 31917 solutions in 10512 buckets, bucket-0 time = 0.023378s, bucket-1 time = 0.050889s, search-0 time = 0.038492s, search-1 time = 0.108382s
+solution collect done, found 32051 solutions in 10512 buckets, bucket-0 time = 0.023691s, bucket-1 time = 0.033357s, search-0 time = 0.033236s, search-1 time = 0.120748s
+sieving done.
+bucket-0 time = 0.451365s, bucket-1 time = 0.335153s, search-0 time = 0.212360s, search-1 time = 1.139469s
+sort time = 0.192695s, insert time = 0.139146s
+bucket0 speed: 2871.290419 bucket/s, 341.852070 GFLOPS
+bucket1 speed: 278416.126366 bucket/s, 490.570389 GFLOPS
+search0 speed: 6102.844227 bucket/s, 60.300513 GFLOPS
+search1 speed: 81890.775440 bucket/s, 482.969347 GFLOPS
+num bucket0 = 1296, avg bucket0 size = 10999, num bucket1 = 93312, avg bucket1 size = 259
+bucket cost = 4445 dp/sol, search cost = 7855 dp/sol
+try_add2 = 1468786, try_add3 = 10291, succ_add2 = 442161(1/3.32), succ_add3 = 5358(1/1.92)
+
+
+begin bgj2 sieve, sieving dimension = 87, pool size = 754044
+solution collect done, found 36483 solutions in 5256 buckets, bucket-0 time = 0.077168s, bucket-1 time = 0.015696s, search-0 time = 0.005740s, search-1 time = 0.102397s
+solution collect done, found 50346 solutions in 5256 buckets, bucket-0 time = 0.036712s, bucket-1 time = 0.015155s, search-0 time = 0.005352s, search-1 time = 0.067666s
+solution collect done, found 37837 solutions in 5256 buckets, bucket-0 time = 0.055384s, bucket-1 time = 0.014860s, search-0 time = 0.007171s, search-1 time = 0.113666s
+solution collect done, found 46635 solutions in 5256 buckets, bucket-0 time = 0.076097s, bucket-1 time = 0.013550s, search-0 time = 0.008647s, search-1 time = 0.073028s
+solution collect done, found 31178 solutions in 5256 buckets, bucket-0 time = 0.060632s, bucket-1 time = 0.016222s, search-0 time = 0.011402s, search-1 time = 0.064991s
+solution collect done, found 34096 solutions in 5256 buckets, bucket-0 time = 0.035625s, bucket-1 time = 0.026809s, search-0 time = 0.004453s, search-1 time = 0.057824s
+solution collect done, found 28117 solutions in 5256 buckets, bucket-0 time = 0.019571s, bucket-1 time = 0.024399s, search-0 time = 0.021163s, search-1 time = 0.062179s
+solution collect done, found 28056 solutions in 5256 buckets, bucket-0 time = 0.026717s, bucket-1 time = 0.015655s, search-0 time = 0.022750s, search-1 time = 0.051520s
+solution collect done, found 24122 solutions in 5256 buckets, bucket-0 time = 0.071418s, bucket-1 time = 0.020000s, search-0 time = 0.011931s, search-1 time = 0.052283s
+solution collect done, found 24870 solutions in 5256 buckets, bucket-0 time = 0.018383s, bucket-1 time = 0.016233s, search-0 time = 0.007319s, search-1 time = 0.048172s
+solution collect done, found 41825 solutions in 10512 buckets, bucket-0 time = 0.089612s, bucket-1 time = 0.043823s, search-0 time = 0.018698s, search-1 time = 0.121378s
+solution collect done, found 42147 solutions in 10512 buckets, bucket-0 time = 0.039456s, bucket-1 time = 0.034545s, search-0 time = 0.015363s, search-1 time = 0.138007s
+solution collect done, found 33795 solutions in 10512 buckets, bucket-0 time = 0.034767s, bucket-1 time = 0.027203s, search-0 time = 0.012381s, search-1 time = 0.087498s
+solution collect done, found 33927 solutions in 10512 buckets, bucket-0 time = 0.024433s, bucket-1 time = 0.023203s, search-0 time = 0.006379s, search-1 time = 0.060180s
+sieving done.
+bucket-0 time = 0.665975s, bucket-1 time = 0.307353s, search-0 time = 0.158749s, search-1 time = 1.100789s
+sort time = 0.168089s, insert time = 0.166639s
+bucket0 speed: 1946.018995 bucket/s, 270.610379 GFLOPS
+bucket1 speed: 303598.793570 bucket/s, 598.395295 GFLOPS
+search0 speed: 8163.830953 bucket/s, 93.364477 GFLOPS
+search1 speed: 84768.288927 bucket/s, 585.539027 GFLOPS
+num bucket0 = 1296, avg bucket0 size = 12162, num bucket1 = 93312, avg bucket1 size = 279
+bucket cost = 4553 dp/sol, search cost = 8246 dp/sol
+try_add2 = 1563028, try_add3 = 10660, succ_add2 = 487898(1/3.20), succ_add3 = 5536(1/1.93)
+
+
+begin bgj2 sieve, sieving dimension = 88, pool size = 870610
+solution collect done, found 37184 solutions in 5256 buckets, bucket-0 time = 0.044091s, bucket-1 time = 0.015143s, search-0 time = 0.033583s, search-1 time = 0.060360s
+solution collect done, found 49224 solutions in 5256 buckets, bucket-0 time = 0.037919s, bucket-1 time = 0.029312s, search-0 time = 0.010640s, search-1 time = 0.050299s
+solution collect done, found 38681 solutions in 5256 buckets, bucket-0 time = 0.042477s, bucket-1 time = 0.021186s, search-0 time = 0.007002s, search-1 time = 0.049628s
+solution collect done, found 47516 solutions in 5256 buckets, bucket-0 time = 0.066680s, bucket-1 time = 0.019957s, search-0 time = 0.014248s, search-1 time = 0.073626s
+solution collect done, found 34974 solutions in 5256 buckets, bucket-0 time = 0.030502s, bucket-1 time = 0.017680s, search-0 time = 0.007851s, search-1 time = 0.040187s
+solution collect done, found 36116 solutions in 5256 buckets, bucket-0 time = 0.020965s, bucket-1 time = 0.019115s, search-0 time = 0.001856s, search-1 time = 0.031053s
+solution collect done, found 27668 solutions in 5256 buckets, bucket-0 time = 0.029465s, bucket-1 time = 0.012542s, search-0 time = 0.007104s, search-1 time = 0.029829s
+solution collect done, found 30531 solutions in 5256 buckets, bucket-0 time = 0.029998s, bucket-1 time = 0.028913s, search-0 time = 0.009101s, search-1 time = 0.084826s
+solution collect done, found 26133 solutions in 5256 buckets, bucket-0 time = 0.025049s, bucket-1 time = 0.028715s, search-0 time = 0.010198s, search-1 time = 0.081661s
+solution collect done, found 25558 solutions in 5256 buckets, bucket-0 time = 0.015651s, bucket-1 time = 0.022705s, search-0 time = 0.006454s, search-1 time = 0.063292s
+solution collect done, found 44375 solutions in 10512 buckets, bucket-0 time = 0.035930s, bucket-1 time = 0.055926s, search-0 time = 0.009426s, search-1 time = 0.169330s
+solution collect done, found 45035 solutions in 10512 buckets, bucket-0 time = 0.067072s, bucket-1 time = 0.045656s, search-0 time = 0.018756s, search-1 time = 0.153089s
+solution collect done, found 37978 solutions in 10512 buckets, bucket-0 time = 0.047943s, bucket-1 time = 0.048712s, search-0 time = 0.016109s, search-1 time = 0.158497s
+solution collect done, found 37861 solutions in 10512 buckets, bucket-0 time = 0.039916s, bucket-1 time = 0.038146s, search-0 time = 0.015626s, search-1 time = 0.151791s
+solution collect done, found 32107 solutions in 10512 buckets, bucket-0 time = 0.050850s, bucket-1 time = 0.047514s, search-0 time = 0.017110s, search-1 time = 0.156576s
+sieving done.
+bucket-0 time = 0.584508s, bucket-1 time = 0.451222s, search-0 time = 0.185064s, search-1 time = 1.354044s
+sort time = 0.175052s, insert time = 0.199278s
+bucket0 speed: 2463.610421 bucket/s, 400.116595 GFLOPS
+bucket1 speed: 229776.030424 bucket/s, 519.344401 GFLOPS
+search0 speed: 7781.091947 bucket/s, 107.467542 GFLOPS
+search1 speed: 76570.628429 bucket/s, 645.333798 GFLOPS
+num bucket0 = 1440, avg bucket0 size = 13789, num bucket1 = 103680, avg bucket1 size = 306
+bucket cost = 5184 dp/sol, search cost = 9896 dp/sol
+try_add2 = 1796990, try_add3 = 11556, succ_add2 = 544820(1/3.30), succ_add3 = 6121(1/1.89)
+
+
+begin bgj2 sieve, sieving dimension = 89, pool size = 1005560
+solution collect done, found 47368 solutions in 5256 buckets, bucket-0 time = 0.017724s, bucket-1 time = 0.024831s, search-0 time = 0.005540s, search-1 time = 0.119750s
+solution collect done, found 61031 solutions in 5256 buckets, bucket-0 time = 0.023307s, bucket-1 time = 0.021700s, search-0 time = 0.011923s, search-1 time = 0.099905s
+solution collect done, found 43450 solutions in 5256 buckets, bucket-0 time = 0.034042s, bucket-1 time = 0.055540s, search-0 time = 0.005809s, search-1 time = 0.059582s
+solution collect done, found 53838 solutions in 5256 buckets, bucket-0 time = 0.032277s, bucket-1 time = 0.021419s, search-0 time = 0.014634s, search-1 time = 0.095599s
+solution collect done, found 40349 solutions in 5256 buckets, bucket-0 time = 0.062536s, bucket-1 time = 0.019610s, search-0 time = 0.009653s, search-1 time = 0.065294s
+solution collect done, found 41331 solutions in 5256 buckets, bucket-0 time = 0.039132s, bucket-1 time = 0.027875s, search-0 time = 0.011624s, search-1 time = 0.080306s
+solution collect done, found 35697 solutions in 5256 buckets, bucket-0 time = 0.037786s, bucket-1 time = 0.036689s, search-0 time = 0.010681s, search-1 time = 0.113442s
+solution collect done, found 32920 solutions in 5256 buckets, bucket-0 time = 0.028536s, bucket-1 time = 0.031484s, search-0 time = 0.006895s, search-1 time = 0.081080s
+solution collect done, found 29889 solutions in 5256 buckets, bucket-0 time = 0.042858s, bucket-1 time = 0.023127s, search-0 time = 0.014378s, search-1 time = 0.105537s
+solution collect done, found 30888 solutions in 5256 buckets, bucket-0 time = 0.018971s, bucket-1 time = 0.028643s, search-0 time = 0.005728s, search-1 time = 0.084086s
+solution collect done, found 54096 solutions in 10512 buckets, bucket-0 time = 0.041263s, bucket-1 time = 0.057883s, search-0 time = 0.020573s, search-1 time = 0.162688s
+solution collect done, found 53707 solutions in 10512 buckets, bucket-0 time = 0.083036s, bucket-1 time = 0.048405s, search-0 time = 0.028886s, search-1 time = 0.147103s
+solution collect done, found 43119 solutions in 10512 buckets, bucket-0 time = 0.075272s, bucket-1 time = 0.056346s, search-0 time = 0.018472s, search-1 time = 0.160649s
+solution collect done, found 43014 solutions in 10512 buckets, bucket-0 time = 0.044037s, bucket-1 time = 0.040740s, search-0 time = 0.032883s, search-1 time = 0.155985s
+solution collect done, found 36317 solutions in 10512 buckets, bucket-0 time = 0.069310s, bucket-1 time = 0.050294s, search-0 time = 0.018748s, search-1 time = 0.159509s
+solution collect done, found 36717 solutions in 10512 buckets, bucket-0 time = 0.046904s, bucket-1 time = 0.047697s, search-0 time = 0.041802s, search-1 time = 0.163959s
+solution collect done, found 31812 solutions in 10512 buckets, bucket-0 time = 0.035778s, bucket-1 time = 0.053847s, search-0 time = 0.012020s, search-1 time = 0.145114s
+sieving done.
+bucket-0 time = 0.732769s, bucket-1 time = 0.646130s, search-0 time = 0.270249s, search-1 time = 1.999588s
+sort time = 0.206133s, insert time = 0.198524s
+bucket0 speed: 2358.178362 bucket/s, 448.756192 GFLOPS
+bucket1 speed: 192555.677650 bucket/s, 488.108340 GFLOPS
+search0 speed: 6394.103216 bucket/s, 102.691831 GFLOPS
+search1 speed: 62220.817488 bucket/s, 616.808855 GFLOPS
+num bucket0 = 1728, avg bucket0 size = 15291, num bucket1 = 124416, avg bucket1 size = 330
+bucket cost = 5430 dp/sol, search cost = 10631 dp/sol
+try_add2 = 2282771, try_add3 = 14381, succ_add2 = 707847(1/3.22), succ_add3 = 7696(1/1.87)
+
+
+begin bgj2 sieve, sieving dimension = 90, pool size = 1161184
+solution collect done, found 45542 solutions in 5256 buckets, bucket-0 time = 0.039877s, bucket-1 time = 0.017158s, search-0 time = 0.013088s, search-1 time = 0.084910s
+solution collect done, found 56174 solutions in 5256 buckets, bucket-0 time = 0.025959s, bucket-1 time = 0.026881s, search-0 time = 0.012640s, search-1 time = 0.062393s
+solution collect done, found 43966 solutions in 5256 buckets, bucket-0 time = 0.017823s, bucket-1 time = 0.028550s, search-0 time = 0.003529s, search-1 time = 0.059458s
+solution collect done, found 48834 solutions in 5256 buckets, bucket-0 time = 0.025624s, bucket-1 time = 0.022489s, search-0 time = 0.005203s, search-1 time = 0.068053s
+solution collect done, found 39951 solutions in 5256 buckets, bucket-0 time = 0.055207s, bucket-1 time = 0.023157s, search-0 time = 0.015101s, search-1 time = 0.059155s
+solution collect done, found 42632 solutions in 5256 buckets, bucket-0 time = 0.021444s, bucket-1 time = 0.020201s, search-0 time = 0.017748s, search-1 time = 0.088310s
+solution collect done, found 35928 solutions in 5256 buckets, bucket-0 time = 0.046194s, bucket-1 time = 0.034884s, search-0 time = 0.004894s, search-1 time = 0.069995s
+solution collect done, found 38040 solutions in 5256 buckets, bucket-0 time = 0.036847s, bucket-1 time = 0.034090s, search-0 time = 0.007798s, search-1 time = 0.079500s
+solution collect done, found 62203 solutions in 10512 buckets, bucket-0 time = 0.051609s, bucket-1 time = 0.062465s, search-0 time = 0.015271s, search-1 time = 0.146929s
+solution collect done, found 34248 solutions in 5256 buckets, bucket-0 time = 0.022457s, bucket-1 time = 0.031626s, search-0 time = 0.006298s, search-1 time = 0.072766s
+solution collect done, found 56134 solutions in 10512 buckets, bucket-0 time = 0.092360s, bucket-1 time = 0.071040s, search-0 time = 0.023332s, search-1 time = 0.150176s
+solution collect done, found 57781 solutions in 10512 buckets, bucket-0 time = 0.054896s, bucket-1 time = 0.063670s, search-0 time = 0.015409s, search-1 time = 0.159955s
+solution collect done, found 46131 solutions in 10512 buckets, bucket-0 time = 0.066316s, bucket-1 time = 0.070314s, search-0 time = 0.033454s, search-1 time = 0.194930s
+solution collect done, found 46481 solutions in 10512 buckets, bucket-0 time = 0.053771s, bucket-1 time = 0.055064s, search-0 time = 0.030925s, search-1 time = 0.162960s
+solution collect done, found 39862 solutions in 10512 buckets, bucket-0 time = 0.085203s, bucket-1 time = 0.050992s, search-0 time = 0.019135s, search-1 time = 0.180526s
+solution collect done, found 40484 solutions in 10512 buckets, bucket-0 time = 0.050980s, bucket-1 time = 0.057671s, search-0 time = 0.017011s, search-1 time = 0.177898s
+solution collect done, found 35245 solutions in 10512 buckets, bucket-0 time = 0.042173s, bucket-1 time = 0.043276s, search-0 time = 0.013811s, search-1 time = 0.083560s
+solution collect done, found 34724 solutions in 10512 buckets, bucket-0 time = 0.046792s, bucket-1 time = 0.042460s, search-0 time = 0.006048s, search-1 time = 0.084980s
+sieving done.
+bucket-0 time = 0.835532s, bucket-1 time = 0.755988s, search-0 time = 0.260695s, search-1 time = 1.986454s
+sort time = 0.255783s, insert time = 0.188580s
+bucket0 speed: 2326.661337 bucket/s, 516.776606 GFLOPS
+bucket1 speed: 185145.795965 bucket/s, 520.394264 GFLOPS
+search0 speed: 7456.989969 bucket/s, 133.346582 GFLOPS
+search1 speed: 70461.233937 bucket/s, 789.021506 GFLOPS
+num bucket0 = 1944, avg bucket0 size = 16766, num bucket1 = 139968, avg bucket1 size = 348
+bucket cost = 6119 dp/sol, search cost = 11881 dp/sol
+try_add2 = 2577424, try_add3 = 15352, succ_add2 = 796158(1/3.24), succ_add3 = 8202(1/1.87)
+
+
+begin bgj2 sieve, sieving dimension = 91, pool size = 1340824
+solution collect done, found 47523 solutions in 5256 buckets, bucket-0 time = 0.015792s, bucket-1 time = 0.014142s, search-0 time = 0.006347s, search-1 time = 0.030752s
+solution collect done, found 57108 solutions in 5256 buckets, bucket-0 time = 0.012000s, bucket-1 time = 0.013672s, search-0 time = 0.003137s, search-1 time = 0.032133s
+solution collect done, found 44817 solutions in 5256 buckets, bucket-0 time = 0.015934s, bucket-1 time = 0.016783s, search-0 time = 0.001572s, search-1 time = 0.034377s
+solution collect done, found 54330 solutions in 5256 buckets, bucket-0 time = 0.038900s, bucket-1 time = 0.013507s, search-0 time = 0.003685s, search-1 time = 0.077369s
+solution collect done, found 44997 solutions in 5256 buckets, bucket-0 time = 0.103196s, bucket-1 time = 0.019717s, search-0 time = 0.008851s, search-1 time = 0.082887s
+solution collect done, found 50995 solutions in 5256 buckets, bucket-0 time = 0.027684s, bucket-1 time = 0.033654s, search-0 time = 0.004368s, search-1 time = 0.085073s
+solution collect done, found 39395 solutions in 5256 buckets, bucket-0 time = 0.024119s, bucket-1 time = 0.020778s, search-0 time = 0.005016s, search-1 time = 0.068103s
+solution collect done, found 39979 solutions in 5256 buckets, bucket-0 time = 0.039452s, bucket-1 time = 0.033254s, search-0 time = 0.011774s, search-1 time = 0.093787s
+solution collect done, found 68366 solutions in 10512 buckets, bucket-0 time = 0.091921s, bucket-1 time = 0.063995s, search-0 time = 0.014559s, search-1 time = 0.183235s
+solution collect done, found 71255 solutions in 10512 buckets, bucket-0 time = 0.059284s, bucket-1 time = 0.058233s, search-0 time = 0.015959s, search-1 time = 0.196248s
+solution collect done, found 57333 solutions in 10512 buckets, bucket-0 time = 0.072554s, bucket-1 time = 0.073257s, search-0 time = 0.017039s, search-1 time = 0.175056s
+solution collect done, found 57523 solutions in 10512 buckets, bucket-0 time = 0.053627s, bucket-1 time = 0.064333s, search-0 time = 0.016750s, search-1 time = 0.176232s
+solution collect done, found 48965 solutions in 10512 buckets, bucket-0 time = 0.085293s, bucket-1 time = 0.063084s, search-0 time = 0.019002s, search-1 time = 0.204715s
+solution collect done, found 49706 solutions in 10512 buckets, bucket-0 time = 0.057125s, bucket-1 time = 0.062195s, search-0 time = 0.012655s, search-1 time = 0.223740s
+solution collect done, found 42791 solutions in 10512 buckets, bucket-0 time = 0.071241s, bucket-1 time = 0.072824s, search-0 time = 0.012289s, search-1 time = 0.159941s
+solution collect done, found 43340 solutions in 10512 buckets, bucket-0 time = 0.060575s, bucket-1 time = 0.068369s, search-0 time = 0.023806s, search-1 time = 0.195652s
+solution collect done, found 56610 solutions in 15768 buckets, bucket-0 time = 0.095248s, bucket-1 time = 0.132295s, search-0 time = 0.024014s, search-1 time = 0.292116s
+solution collect done, found 39905 solutions in 10512 buckets, bucket-0 time = 0.065762s, bucket-1 time = 0.072447s, search-0 time = 0.012757s, search-1 time = 0.192461s
+sieving done.
+bucket-0 time = 0.989707s, bucket-1 time = 0.896539s, search-0 time = 0.213580s, search-1 time = 2.503877s
+sort time = 0.246322s, insert time = 0.278016s
+bucket0 speed: 2109.715300 bucket/s, 547.030652 GFLOPS
+bucket1 speed: 167684.841373 bucket/s, 532.342826 GFLOPS
+search0 speed: 9776.196273 bucket/s, 206.066359 GFLOPS
+search1 speed: 60041.287971 bucket/s, 797.437088 GFLOPS
+num bucket0 = 2088, avg bucket0 size = 18729, num bucket1 = 150336, avg bucket1 size = 377
+bucket cost = 6568 dp/sol, search cost = 13158 dp/sol
+try_add2 = 2904702, try_add3 = 16959, succ_add2 = 905771(1/3.21), succ_add3 = 9167(1/1.85)
+
+
+begin bgj2 sieve, sieving dimension = 92, pool size = 1548232
+solution collect done, found 50377 solutions in 5256 buckets, bucket-0 time = 0.049081s, bucket-1 time = 0.026882s, search-0 time = 0.009954s, search-1 time = 0.078272s
+solution collect done, found 64218 solutions in 5256 buckets, bucket-0 time = 0.026864s, bucket-1 time = 0.019714s, search-0 time = 0.024644s, search-1 time = 0.100143s
+solution collect done, found 48207 solutions in 5256 buckets, bucket-0 time = 0.022750s, bucket-1 time = 0.031124s, search-0 time = 0.007607s, search-1 time = 0.084573s
+solution collect done, found 53746 solutions in 5256 buckets, bucket-0 time = 0.069061s, bucket-1 time = 0.028950s, search-0 time = 0.010080s, search-1 time = 0.094312s
+solution collect done, found 49054 solutions in 5256 buckets, bucket-0 time = 0.034539s, bucket-1 time = 0.031268s, search-0 time = 0.004608s, search-1 time = 0.087491s
+solution collect done, found 48740 solutions in 5256 buckets, bucket-0 time = 0.051009s, bucket-1 time = 0.037390s, search-0 time = 0.006737s, search-1 time = 0.083000s
+solution collect done, found 87076 solutions in 10512 buckets, bucket-0 time = 0.116009s, bucket-1 time = 0.074511s, search-0 time = 0.028392s, search-1 time = 0.183843s
+solution collect done, found 46194 solutions in 5256 buckets, bucket-0 time = 0.029197s, bucket-1 time = 0.035978s, search-0 time = 0.016745s, search-1 time = 0.089609s
+solution collect done, found 74099 solutions in 10512 buckets, bucket-0 time = 0.066369s, bucket-1 time = 0.083576s, search-0 time = 0.023860s, search-1 time = 0.217837s
+solution collect done, found 75801 solutions in 10512 buckets, bucket-0 time = 0.077290s, bucket-1 time = 0.075475s, search-0 time = 0.042448s, search-1 time = 0.170274s
+solution collect done, found 62388 solutions in 10512 buckets, bucket-0 time = 0.068796s, bucket-1 time = 0.054371s, search-0 time = 0.014257s, search-1 time = 0.151779s
+solution collect done, found 65434 solutions in 10512 buckets, bucket-0 time = 0.041446s, bucket-1 time = 0.043900s, search-0 time = 0.008517s, search-1 time = 0.102195s
+solution collect done, found 52306 solutions in 10512 buckets, bucket-0 time = 0.048083s, bucket-1 time = 0.045483s, search-0 time = 0.006841s, search-1 time = 0.119880s
+solution collect done, found 54830 solutions in 10512 buckets, bucket-0 time = 0.038280s, bucket-1 time = 0.039424s, search-0 time = 0.014137s, search-1 time = 0.105821s
+solution collect done, found 46038 solutions in 10512 buckets, bucket-0 time = 0.035746s, bucket-1 time = 0.050901s, search-0 time = 0.006608s, search-1 time = 0.111939s
+solution collect done, found 46062 solutions in 10512 buckets, bucket-0 time = 0.039671s, bucket-1 time = 0.041880s, search-0 time = 0.014651s, search-1 time = 0.101628s
+solution collect done, found 60986 solutions in 15768 buckets, bucket-0 time = 0.055563s, bucket-1 time = 0.070677s, search-0 time = 0.016943s, search-1 time = 0.149160s
+solution collect done, found 58990 solutions in 15768 buckets, bucket-0 time = 0.128666s, bucket-1 time = 0.142291s, search-0 time = 0.042706s, search-1 time = 0.325764s
+solution collect done, found 53819 solutions in 15768 buckets, bucket-0 time = 0.057083s, bucket-1 time = 0.059254s, search-0 time = 0.013383s, search-1 time = 0.172505s
+sieving done.
+bucket-0 time = 1.055503s, bucket-1 time = 0.993049s, search-0 time = 0.313118s, search-1 time = 2.530025s
+sort time = 0.253647s, insert time = 0.224881s
+bucket0 speed: 2319.273370 bucket/s, 702.807664 GFLOPS
+bucket1 speed: 177489.731121 bucket/s, 634.261829 GFLOPS
+search0 speed: 7818.138849 bucket/s, 190.175029 GFLOPS
+search1 speed: 69665.714766 bucket/s, 1104.734589 GFLOPS
+num bucket0 = 2448, avg bucket0 size = 20853, num bucket1 = 176256, avg bucket1 size = 410
+bucket cost = 7287 dp/sol, search cost = 15166 dp/sol
+try_add2 = 3541062, try_add3 = 19991, succ_add2 = 1087371(1/3.26), succ_add3 = 10994(1/1.82)
+
+
+begin bgj3 sieve, sieving dimension = 93, pool size = 1787568
+solution collect done, found 337108 solutions in 201710 buckets, b0: 0.281s, b1: 0.699s, b2: 0.222s, s0: 0.000s, s1: 0.034s, s2: 0.242s
+solution collect done, found 292669 solutions in 201712 buckets, b0: 0.091s, b1: 0.618s, b2: 0.251s, s0: 0.000s, s1: 0.061s, s2: 0.328s
+solution collect done, found 225149 solutions in 201712 buckets, b0: 0.066s, b1: 0.582s, b2: 0.225s, s0: 0.000s, s1: 0.077s, s2: 0.439s
+solution collect done, found 174081 solutions in 201712 buckets, b0: 0.065s, b1: 0.484s, b2: 0.261s, s0: 0.000s, s1: 0.077s, s2: 0.466s
+solution collect done, found 147211 solutions in 201712 buckets, b0: 0.054s, b1: 0.387s, b2: 0.180s, s0: 0.000s, s1: 0.052s, s2: 0.336s
+solution collect done, found 126834 solutions in 201710 buckets, b0: 0.033s, b1: 0.127s, b2: 0.223s, s0: 0.000s, s1: 0.044s, s2: 0.297s
+sieving done.
+solution collect done, found 1303052 solutions in 1210268 buckets, b0: 0.591s, b1: 2.898s, b2: 1.364s, s0: 0.001s, s1: 0.344s, s2: 2.108s, sort: 0.258s, insert: 0.377s
+b0: 568.41 bucket/s (198.596 GFLOPS), b1: 8348.04 bucket/s (145.755 GFLOPS), b2: 851452.51 bucket/s (869.169 GFLOPS)
+s0: 480439.69 bucket/s (5776.004 GFLOPS), s1: 70404.61 bucket/s (1368.294 GFLOPS), s2: 550900.63 bucket/s (1347.329 GFLOPS)
+nb0 = 336(100783), nb1 = 24190(5892), nb2 = 1161216(159), nbr0 = 336(355), nbr1 = 24190(447)
+bucket cost = 7642 dp/sol, search cost = 14682 dp/sol
+try_add2 = 6203652, try_add3 = 1968, succ_add2 = 1302070(1/4.76), succ_add3 = 982(1/2.00)
+
+
+begin bgj3 sieve, sieving dimension = 94, pool size = 2063740
+solution collect done, found 356925 solutions in 201712 buckets, b0: 0.059s, b1: 0.056s, b2: 0.261s, s0: 0.000s, s1: 0.045s, s2: 0.265s
+solution collect done, found 319772 solutions in 201712 buckets, b0: 0.077s, b1: 0.110s, b2: 0.216s, s0: 0.001s, s1: 0.045s, s2: 0.303s
+solution collect done, found 253330 solutions in 201712 buckets, b0: 0.057s, b1: 0.249s, b2: 0.268s, s0: 0.000s, s1: 0.082s, s2: 0.463s
+solution collect done, found 196180 solutions in 201712 buckets, b0: 0.047s, b1: 0.280s, b2: 0.272s, s0: 0.000s, s1: 0.084s, s2: 0.533s
+solution collect done, found 166581 solutions in 201712 buckets, b0: 0.052s, b1: 0.237s, b2: 0.289s, s0: 0.001s, s1: 0.080s, s2: 0.491s
+solution collect done, found 139503 solutions in 201568 buckets, b0: 0.049s, b1: 0.166s, b2: 0.153s, s0: 0.000s, s1: 0.047s, s2: 0.293s
+sieving done.
+solution collect done, found 1432291 solutions in 1210128 buckets, b0: 0.340s, b1: 1.099s, b2: 1.460s, s0: 0.002s, s1: 0.383s, s2: 2.348s, sort: 0.362s, insert: 0.366s
+b0: 988.85 bucket/s (403.296 GFLOPS), b1: 21954.28 bucket/s (431.658 GFLOPS), b2: 795361.10 bucket/s (884.655 GFLOPS)
+s0: 180345.19 bucket/s (2347.483 GFLOPS), s1: 62943.22 bucket/s (1350.196 GFLOPS), s2: 494610.09 bucket/s (1317.214 GFLOPS)
+nb0 = 336(111961), nb1 = 24120(6354), nb2 = 1161216(165), nbr0 = 336(365), nbr1 = 24120(466)
+bucket cost = 7587 dp/sol, search cost = 14412 dp/sol
+try_add2 = 6305194, try_add3 = 2077, succ_add2 = 1431257(1/4.41), succ_add3 = 1034(1/2.01)
+
+
+begin bgj3 sieve, sieving dimension = 95, pool size = 2383190
+solution collect done, found 417952 solutions in 201712 buckets, b0: 0.061s, b1: 0.062s, b2: 0.312s, s0: 0.000s, s1: 0.048s, s2: 0.333s
+solution collect done, found 370559 solutions in 201710 buckets, b0: 0.081s, b1: 0.084s, b2: 0.317s, s0: 0.000s, s1: 0.069s, s2: 0.486s
+solution collect done, found 272912 solutions in 201712 buckets, b0: 0.062s, b1: 0.181s, b2: 0.310s, s0: 0.000s, s1: 0.100s, s2: 0.560s
+solution collect done, found 232923 solutions in 201712 buckets, b0: 0.060s, b1: 0.415s, b2: 0.380s, s0: 0.000s, s1: 0.089s, s2: 0.580s
+solution collect done, found 191801 solutions in 201712 buckets, b0: 0.083s, b1: 0.289s, b2: 0.273s, s0: 0.000s, s1: 0.085s, s2: 0.535s
+solution collect done, found 169323 solutions in 201712 buckets, b0: 0.066s, b1: 0.337s, b2: 0.277s, s0: 0.000s, s1: 0.111s, s2: 0.645s
+solution collect done, found 145067 solutions in 201712 buckets, b0: 0.064s, b1: 0.184s, b2: 0.300s, s0: 0.000s, s1: 0.101s, s2: 0.754s
+sieving done.
+solution collect done, found 1800537 solutions in 1411982 buckets, b0: 0.477s, b1: 1.552s, b2: 2.170s, s0: 0.001s, s1: 0.603s, s2: 3.893s, sort: 0.381s, insert: 0.485s
+b0: 822.15 bucket/s (392.635 GFLOPS), b1: 18179.99 bucket/s (409.665 GFLOPS), b2: 624363.73 bucket/s (789.681 GFLOPS)
+s0: 278257.78 bucket/s (4377.950 GFLOPS), s1: 46835.47 bucket/s (1245.449 GFLOPS), s2: 347981.87 bucket/s (1137.959 GFLOPS)
+nb0 = 392(127340), nb1 = 28223(7147), nb2 = 1354752(181), nbr0 = 392(399), nbr1 = 28223(516)
+bucket cost = 7961 dp/sol, search cost = 16280 dp/sol
+try_add2 = 7814793, try_add3 = 2436, succ_add2 = 1799361(1/4.34), succ_add3 = 1176(1/2.07)
+
+
+begin bgj3 sieve, sieving dimension = 96, pool size = 2752169
+solution collect done, found 443495 solutions in 201710 buckets, b0: 0.040s, b1: 0.049s, b2: 0.223s, s0: 0.000s, s1: 0.015s, s2: 0.102s
+solution collect done, found 401734 solutions in 201706 buckets, b0: 0.042s, b1: 0.096s, b2: 0.253s, s0: 0.000s, s1: 0.063s, s2: 0.362s
+solution collect done, found 308088 solutions in 201712 buckets, b0: 0.062s, b1: 0.251s, b2: 0.262s, s0: 0.000s, s1: 0.094s, s2: 0.586s
+solution collect done, found 254708 solutions in 201712 buckets, b0: 0.056s, b1: 0.233s, b2: 0.310s, s0: 0.000s, s1: 0.106s, s2: 0.656s
+solution collect done, found 216222 solutions in 201712 buckets, b0: 0.056s, b1: 0.332s, b2: 0.256s, s0: 0.000s, s1: 0.082s, s2: 0.503s
+solution collect done, found 184261 solutions in 201712 buckets, b0: 0.045s, b1: 0.196s, b2: 0.179s, s0: 0.000s, s1: 0.065s, s2: 0.387s
+solution collect done, found 161059 solutions in 201712 buckets, b0: 0.065s, b1: 0.228s, b2: 0.356s, s0: 0.000s, s1: 0.129s, s2: 0.729s
+solution collect done, found 146007 solutions in 201712 buckets, b0: 0.055s, b1: 0.211s, b2: 0.362s, s0: 0.000s, s1: 0.126s, s2: 0.713s
+sieving done.
+solution collect done, found 2115574 solutions in 1613688 buckets, b0: 0.421s, b1: 1.596s, b2: 2.201s, s0: 0.002s, s1: 0.680s, s2: 4.037s, sort: 0.462s, insert: 0.656s
+b0: 1063.51 bucket/s (594.121 GFLOPS), b1: 20209.92 bucket/s (522.863 GFLOPS), b2: 703554.53 bucket/s (1002.238 GFLOPS)
+s0: 210106.69 bucket/s (3832.610 GFLOPS), s1: 47423.80 bucket/s (1500.025 GFLOPS), s2: 383507.27 bucket/s (1487.229 GFLOPS)
+nb0 = 448(144666), nb1 = 32252(7966), nb2 = 1548288(196), nbr0 = 448(429), nbr1 = 32252(561)
+bucket cost = 8697 dp/sol, search cost = 18590 dp/sol
+try_add2 = 9194322, try_add3 = 2789, succ_add2 = 2114182(1/4.35), succ_add3 = 1392(1/2.00)
+
+
+begin bgj3 sieve, sieving dimension = 97, pool size = 3178002
+solution collect done, found 470743 solutions in 201708 buckets, b0: 0.047s, b1: 0.054s, b2: 0.226s, s0: 0.000s, s1: 0.018s, s2: 0.115s
+solution collect done, found 420664 solutions in 201708 buckets, b0: 0.059s, b1: 0.090s, b2: 0.246s, s0: 0.000s, s1: 0.051s, s2: 0.322s
+solution collect done, found 346088 solutions in 201712 buckets, b0: 0.068s, b1: 0.238s, b2: 0.314s, s0: 0.000s, s1: 0.106s, s2: 0.623s
+solution collect done, found 285045 solutions in 201712 buckets, b0: 0.066s, b1: 0.301s, b2: 0.318s, s0: 0.000s, s1: 0.121s, s2: 0.715s
+solution collect done, found 232683 solutions in 201712 buckets, b0: 0.050s, b1: 0.171s, b2: 0.201s, s0: 0.000s, s1: 0.072s, s2: 0.427s
+solution collect done, found 203716 solutions in 201712 buckets, b0: 0.068s, b1: 0.280s, b2: 0.362s, s0: 0.000s, s1: 0.141s, s2: 0.809s
+solution collect done, found 183258 solutions in 201712 buckets, b0: 0.091s, b1: 0.283s, b2: 0.303s, s0: 0.000s, s1: 0.116s, s2: 0.732s
+solution collect done, found 183741 solutions in 201712 buckets, b0: 0.054s, b1: 0.162s, b2: 0.227s, s0: 0.000s, s1: 0.081s, s2: 0.533s
+solution collect done, found 150921 solutions in 201712 buckets, b0: 0.073s, b1: 0.260s, b2: 0.356s, s0: 0.000s, s1: 0.131s, s2: 0.798s
+sieving done.
+solution collect done, found 2476859 solutions in 1815400 buckets, b0: 0.576s, b1: 1.838s, b2: 2.554s, s0: 0.002s, s1: 0.838s, s2: 5.075s, sort: 0.416s, insert: 0.771s
+b0: 874.79 bucket/s (570.920 GFLOPS), b1: 19742.48 bucket/s (583.504 GFLOPS), b2: 682008.24 bucket/s (1087.915 GFLOPS)
+s0: 238354.22 bucket/s (5081.107 GFLOPS), s1: 43290.96 bucket/s (1613.717 GFLOPS), s2: 343217.54 bucket/s (1544.451 GFLOPS)
+nb0 = 504(163565), nb1 = 36284(8828), nb2 = 1741824(211), nbr0 = 504(459), nbr1 = 36284(606)
+bucket cost = 9340 dp/sol, search cost = 20561 dp/sol
+try_add2 = 10622942, try_add3 = 3081, succ_add2 = 2475330(1/4.29), succ_add3 = 1529(1/2.02)
+
+
+begin bgj3 sieve, sieving dimension = 98, pool size = 3669713
+solution collect done, found 553523 solutions in 201712 buckets, b0: 0.058s, b1: 0.089s, b2: 0.262s, s0: 0.000s, s1: 0.077s, s2: 0.442s
+solution collect done, found 485494 solutions in 201712 buckets, b0: 0.062s, b1: 0.110s, b2: 0.366s, s0: 0.000s, s1: 0.093s, s2: 0.562s
+solution collect done, found 400927 solutions in 201712 buckets, b0: 0.095s, b1: 0.253s, b2: 0.315s, s0: 0.000s, s1: 0.094s, s2: 0.556s
+solution collect done, found 328913 solutions in 201712 buckets, b0: 0.091s, b1: 0.325s, b2: 0.326s, s0: 0.002s, s1: 0.097s, s2: 0.606s
+solution collect done, found 263952 solutions in 201712 buckets, b0: 0.074s, b1: 0.294s, b2: 0.298s, s0: 0.000s, s1: 0.114s, s2: 0.750s
+solution collect done, found 232060 solutions in 201712 buckets, b0: 0.079s, b1: 0.260s, b2: 0.263s, s0: 0.000s, s1: 0.093s, s2: 0.559s
+solution collect done, found 210242 solutions in 201712 buckets, b0: 0.091s, b1: 0.284s, b2: 0.444s, s0: 0.000s, s1: 0.166s, s2: 0.907s
+solution collect done, found 210976 solutions in 201712 buckets, b0: 0.060s, b1: 0.179s, b2: 0.279s, s0: 0.000s, s1: 0.108s, s2: 0.612s
+solution collect done, found 171683 solutions in 201568 buckets, b0: 0.084s, b1: 0.214s, b2: 0.346s, s0: 0.000s, s1: 0.149s, s2: 0.867s
+sieving done.
+solution collect done, found 2857770 solutions in 1815264 buckets, b0: 0.693s, b1: 2.008s, b2: 2.900s, s0: 0.004s, s1: 0.990s, s2: 5.861s, sort: 0.536s, insert: 1.017s
+b0: 727.37 bucket/s (553.993 GFLOPS), b1: 18033.57 bucket/s (608.560 GFLOPS), b2: 600729.73 bucket/s (1067.957 GFLOPS)
+s0: 119489.24 bucket/s (2951.198 GFLOPS), s1: 36589.04 bucket/s (1590.951 GFLOPS), s2: 297185.31 bucket/s (1549.224 GFLOPS)
+nb0 = 504(184502), nb1 = 36216(9737), nb2 = 1741824(225), nbr0 = 504(493), nbr1 = 36216(650)
+bucket cost = 9014 dp/sol, search cost = 20448 dp/sol
+try_add2 = 11337639, try_add3 = 3304, succ_add2 = 2856096(1/3.97), succ_add3 = 1674(1/1.97)
+
+
+begin bgj3 sieve, sieving dimension = 99, pool size = 4237458
+solution collect done, found 525802 solutions in 201710 buckets, b0: 0.073s, b1: 0.110s, b2: 0.281s, s0: 0.000s, s1: 0.067s, s2: 0.436s
+solution collect done, found 495781 solutions in 201636 buckets, b0: 0.099s, b1: 0.126s, b2: 0.314s, s0: 0.000s, s1: 0.101s, s2: 0.560s
+solution collect done, found 406184 solutions in 201712 buckets, b0: 0.071s, b1: 0.190s, b2: 0.298s, s0: 0.000s, s1: 0.101s, s2: 0.654s
+solution collect done, found 349103 solutions in 201712 buckets, b0: 0.095s, b1: 0.193s, b2: 0.271s, s0: 0.000s, s1: 0.116s, s2: 0.735s
+solution collect done, found 304174 solutions in 201712 buckets, b0: 0.099s, b1: 0.331s, b2: 0.345s, s0: 0.000s, s1: 0.148s, s2: 0.898s
+solution collect done, found 253106 solutions in 201712 buckets, b0: 0.088s, b1: 0.279s, b2: 0.277s, s0: 0.001s, s1: 0.126s, s2: 0.799s
+solution collect done, found 220634 solutions in 201712 buckets, b0: 0.073s, b1: 0.215s, b2: 0.305s, s0: 0.000s, s1: 0.157s, s2: 0.832s
+solution collect done, found 225672 solutions in 201712 buckets, b0: 0.087s, b1: 0.297s, b2: 0.381s, s0: 0.000s, s1: 0.163s, s2: 0.929s
+solution collect done, found 184757 solutions in 201712 buckets, b0: 0.107s, b1: 0.241s, b2: 0.272s, s0: 0.000s, s1: 0.131s, s2: 0.774s
+solution collect done, found 188398 solutions in 201712 buckets, b0: 0.056s, b1: 0.204s, b2: 0.187s, s0: 0.000s, s1: 0.077s, s2: 0.432s
+solution collect done, found 160035 solutions in 201712 buckets, b0: 0.057s, b1: 0.091s, b2: 0.206s, s0: 0.000s, s1: 0.102s, s2: 0.592s
+sieving done.
+solution collect done, found 3313646 solutions in 2218754 buckets, b0: 0.905s, b1: 2.278s, b2: 3.138s, s0: 0.004s, s1: 1.288s, s2: 7.642s, sort: 0.668s, insert: 1.040s
+b0: 680.59 bucket/s (605.084 GFLOPS), b1: 19455.64 bucket/s (745.789 GFLOPS), b2: 678476.23 bucket/s (1352.795 GFLOPS)
+s0: 164351.58 bucket/s (4615.265 GFLOPS), s1: 34391.44 bucket/s (1779.945 GFLOPS), s2: 278590.43 bucket/s (1735.913 GFLOPS)
+nb0 = 616(207693), nb1 = 44313(10814), nb2 = 2128896(245), nbr0 = 616(522), nbr1 = 44313(707)
+bucket cost = 10622 dp/sol, search cost = 25490 dp/sol
+try_add2 = 13965083, try_add3 = 3887, succ_add2 = 3311728(1/4.22), succ_add3 = 1918(1/2.03)
+
+
+begin bgj3 sieve, sieving dimension = 100, pool size = 4893226
+solution collect done, found 541494 solutions in 201708 buckets, b0: 0.053s, b1: 0.072s, b2: 0.227s, s0: 0.000s, s1: 0.028s, s2: 0.174s
+solution collect done, found 517299 solutions in 201712 buckets, b0: 0.056s, b1: 0.081s, b2: 0.255s, s0: 0.000s, s1: 0.039s, s2: 0.242s
+solution collect done, found 440503 solutions in 201712 buckets, b0: 0.061s, b1: 0.089s, b2: 0.236s, s0: 0.000s, s1: 0.049s, s2: 0.304s
+solution collect done, found 372385 solutions in 201712 buckets, b0: 0.056s, b1: 0.146s, b2: 0.231s, s0: 0.000s, s1: 0.059s, s2: 0.369s
+solution collect done, found 330937 solutions in 201712 buckets, b0: 0.057s, b1: 0.225s, b2: 0.223s, s0: 0.000s, s1: 0.068s, s2: 0.414s
+solution collect done, found 293116 solutions in 201712 buckets, b0: 0.057s, b1: 0.267s, b2: 0.166s, s0: 0.000s, s1: 0.075s, s2: 0.451s
+solution collect done, found 257149 solutions in 201711 buckets, b0: 0.062s, b1: 0.237s, b2: 0.182s, s0: 0.000s, s1: 0.081s, s2: 0.465s
+solution collect done, found 260703 solutions in 201712 buckets, b0: 0.058s, b1: 0.232s, b2: 0.193s, s0: 0.000s, s1: 0.078s, s2: 0.496s
+solution collect done, found 211118 solutions in 201712 buckets, b0: 0.054s, b1: 0.142s, b2: 0.202s, s0: 0.000s, s1: 0.087s, s2: 0.530s
+solution collect done, found 214069 solutions in 201712 buckets, b0: 0.056s, b1: 0.202s, b2: 0.203s, s0: 0.002s, s1: 0.092s, s2: 0.509s
+solution collect done, found 178212 solutions in 201710 buckets, b0: 0.061s, b1: 0.176s, b2: 0.202s, s0: 0.000s, s1: 0.078s, s2: 0.471s
+solution collect done, found 180211 solutions in 201712 buckets, b0: 0.059s, b1: 0.103s, b2: 0.218s, s0: 0.000s, s1: 0.110s, s2: 0.676s
+sieving done.
+solution collect done, found 3797196 solutions in 2420537 buckets, b0: 0.690s, b1: 1.974s, b2: 2.537s, s0: 0.005s, s1: 0.844s, s2: 5.102s, sort: 0.485s, insert: 0.717s
+b0: 974.07 bucket/s (1010.334 GFLOPS), b1: 24511.54 bucket/s (1056.697 GFLOPS), b2: 915293.15 bucket/s (2006.378 GFLOPS)
+s0: 140411.82 bucket/s (4160.153 GFLOPS), s1: 57326.49 bucket/s (3349.328 GFLOPS), s2: 455221.14 bucket/s (3161.042 GFLOPS)
+nb0 = 672(231426), nb1 = 48380(11768), nb2 = 2322432(257), nbr0 = 672(534), nbr1 = 48381(747)
+bucket cost = 11132 dp/sol, search cost = 26825 dp/sol
+try_add2 = 15463651, try_add3 = 4454, succ_add2 = 3795033(1/4.07), succ_add3 = 2163(1/2.06)
+
+
+begin bgj2 sieve, sieving dimension = 99, pool size = 4893475
+solution collect done, found 148207 solutions in 26280 buckets, bucket-0 time = 0.223459s, bucket-1 time = 0.216581s, search-0 time = 0.044954s, search-1 time = 0.602044s
+solution collect done, found 146237 solutions in 26280 buckets, bucket-0 time = 0.205844s, bucket-1 time = 0.211976s, search-0 time = 0.041701s, search-1 time = 0.593193s
+solution collect done, found 129492 solutions in 26280 buckets, bucket-0 time = 0.204274s, bucket-1 time = 0.219113s, search-0 time = 0.047514s, search-1 time = 0.636227s
+solution collect done, found 131544 solutions in 26280 buckets, bucket-0 time = 0.192488s, bucket-1 time = 0.222242s, search-0 time = 0.041862s, search-1 time = 0.610955s
+solution collect done, found 141615 solutions in 31536 buckets, bucket-0 time = 0.240602s, bucket-1 time = 0.267418s, search-0 time = 0.053506s, search-1 time = 0.722770s
+solution collect done, found 143323 solutions in 31536 buckets, bucket-0 time = 0.264774s, bucket-1 time = 0.266318s, search-0 time = 0.055477s, search-1 time = 0.788524s
+solution collect done, found 129084 solutions in 31536 buckets, bucket-0 time = 0.234507s, bucket-1 time = 0.279579s, search-0 time = 0.055871s, search-1 time = 0.745595s
+solution collect done, found 128380 solutions in 31536 buckets, bucket-0 time = 0.238398s, bucket-1 time = 0.258398s, search-0 time = 0.052871s, search-1 time = 0.717068s
+solution collect done, found 136328 solutions in 36792 buckets, bucket-0 time = 0.285653s, bucket-1 time = 0.262442s, search-0 time = 0.066446s, search-1 time = 0.849688s
+solution collect done, found 138263 solutions in 36792 buckets, bucket-0 time = 0.299392s, bucket-1 time = 0.300277s, search-0 time = 0.065347s, search-1 time = 0.866120s
+solution collect done, found 126447 solutions in 36792 buckets, bucket-0 time = 0.279192s, bucket-1 time = 0.314412s, search-0 time = 0.063564s, search-1 time = 0.844856s
+solution collect done, found 127670 solutions in 36792 buckets, bucket-0 time = 0.267322s, bucket-1 time = 0.286033s, search-0 time = 0.064663s, search-1 time = 0.886512s
+solution collect done, found 134571 solutions in 42048 buckets, bucket-0 time = 0.317506s, bucket-1 time = 0.340816s, search-0 time = 0.074213s, search-1 time = 0.984423s
+solution collect done, found 134696 solutions in 42048 buckets, bucket-0 time = 0.343004s, bucket-1 time = 0.356624s, search-0 time = 0.074307s, search-1 time = 0.977246s
+solution collect done, found 123384 solutions in 42048 buckets, bucket-0 time = 0.303614s, bucket-1 time = 0.344035s, search-0 time = 0.070434s, search-1 time = 0.960602s
+solution collect done, found 124452 solutions in 42048 buckets, bucket-0 time = 0.324523s, bucket-1 time = 0.329470s, search-0 time = 0.076308s, search-1 time = 1.008579s
+sieving done.
+bucket-0 time = 4.224552s, bucket-1 time = 4.475734s, search-0 time = 0.949038s, search-1 time = 12.794402s
+sort time = 0.161060s, insert time = 0.282522s
+bucket0 speed: 1772.495640 bucket/s, 1601.046813 GFLOPS
+bucket1 speed: 120457.560704 bucket/s, 1069.899590 GFLOPS
+search0 speed: 7890.095023 bucket/s, 692.130395 GFLOPS
+search1 speed: 42138.428979 bucket/s, 2604.822327 GFLOPS
+num bucket0 = 7488, avg bucket0 size = 48166, num bucket1 = 539136, avg bucket1 size = 794
+bucket cost = 29224 dp/sol, search cost = 85969 dp/sol
+try_add2 = 11794366, try_add3 = 45156, succ_add2 = 2120242(1/5.56), succ_add3 = 23451(1/1.93)
+
+
+begin bgj2 sieve, sieving dimension = 98, pool size = 4237874
+solution collect done, found 112207 solutions in 26280 buckets, bucket-0 time = 0.180642s, bucket-1 time = 0.175487s, search-0 time = 0.037605s, search-1 time = 0.563458s
+solution collect done, found 111446 solutions in 26280 buckets, bucket-0 time = 0.173587s, bucket-1 time = 0.177706s, search-0 time = 0.045601s, search-1 time = 0.522158s
+solution collect done, found 123110 solutions in 31536 buckets, bucket-0 time = 0.203944s, bucket-1 time = 0.245205s, search-0 time = 0.048887s, search-1 time = 0.666774s
+solution collect done, found 121803 solutions in 31536 buckets, bucket-0 time = 0.226384s, bucket-1 time = 0.234160s, search-0 time = 0.057130s, search-1 time = 0.655489s
+solution collect done, found 111415 solutions in 31536 buckets, bucket-0 time = 0.215949s, bucket-1 time = 0.241958s, search-0 time = 0.054077s, search-1 time = 0.664255s
+solution collect done, found 110144 solutions in 31536 buckets, bucket-0 time = 0.241778s, bucket-1 time = 0.213362s, search-0 time = 0.056285s, search-1 time = 0.631531s
+solution collect done, found 117635 solutions in 36792 buckets, bucket-0 time = 0.252066s, bucket-1 time = 0.300141s, search-0 time = 0.057416s, search-1 time = 0.734974s
+solution collect done, found 117112 solutions in 36792 buckets, bucket-0 time = 0.261371s, bucket-1 time = 0.301142s, search-0 time = 0.061549s, search-1 time = 0.743571s
+solution collect done, found 109371 solutions in 36792 buckets, bucket-0 time = 0.243416s, bucket-1 time = 0.272876s, search-0 time = 0.067174s, search-1 time = 0.733496s
+solution collect done, found 109610 solutions in 36792 buckets, bucket-0 time = 0.256258s, bucket-1 time = 0.240461s, search-0 time = 0.067774s, search-1 time = 0.741154s
+solution collect done, found 115304 solutions in 42048 buckets, bucket-0 time = 0.283444s, bucket-1 time = 0.330466s, search-0 time = 0.056094s, search-1 time = 0.875849s
+solution collect done, found 115671 solutions in 42048 buckets, bucket-0 time = 0.284489s, bucket-1 time = 0.287947s, search-0 time = 0.065149s, search-1 time = 0.850014s
+solution collect done, found 106536 solutions in 42048 buckets, bucket-0 time = 0.297697s, bucket-1 time = 0.289497s, search-0 time = 0.061944s, search-1 time = 0.870599s
+sieving done.
+bucket-0 time = 3.121025s, bucket-1 time = 3.310408s, search-0 time = 0.736685s, search-1 time = 9.253322s
+sort time = 0.104349s, insert time = 0.207223s
+bucket0 speed: 1983.963602 bucket/s, 1535.774478 GFLOPS
+bucket1 speed: 134673.429982 bucket/s, 1070.577512 GFLOPS
+search0 speed: 8405.220685 bucket/s, 638.839617 GFLOPS
+search1 speed: 48179.886099 bucket/s, 2558.560178 GFLOPS
+num bucket0 = 6192, avg bucket0 size = 43549, num bucket1 = 445824, avg bucket1 size = 742
+bucket cost = 30832 dp/sol, search cost = 89294 dp/sol
+try_add2 = 8521966, try_add3 = 33960, succ_add2 = 1463950(1/5.82), succ_add3 = 17414(1/1.95)
+
+
+begin bgj2 sieve, sieving dimension = 97, pool size = 3670106
+solution collect done, found 104480 solutions in 26280 buckets, bucket-0 time = 0.166171s, bucket-1 time = 0.154078s, search-0 time = 0.030853s, search-1 time = 0.474201s
+solution collect done, found 103345 solutions in 26280 buckets, bucket-0 time = 0.158975s, bucket-1 time = 0.177087s, search-0 time = 0.039242s, search-1 time = 0.518036s
+solution collect done, found 93038 solutions in 26280 buckets, bucket-0 time = 0.159668s, bucket-1 time = 0.161911s, search-0 time = 0.041230s, search-1 time = 0.476078s
+solution collect done, found 93044 solutions in 26280 buckets, bucket-0 time = 0.156851s, bucket-1 time = 0.185792s, search-0 time = 0.038656s, search-1 time = 0.475869s
+solution collect done, found 101710 solutions in 31536 buckets, bucket-0 time = 0.190037s, bucket-1 time = 0.197639s, search-0 time = 0.051031s, search-1 time = 0.572855s
+solution collect done, found 102942 solutions in 31536 buckets, bucket-0 time = 0.191699s, bucket-1 time = 0.204026s, search-0 time = 0.044244s, search-1 time = 0.579203s
+solution collect done, found 92580 solutions in 31536 buckets, bucket-0 time = 0.195137s, bucket-1 time = 0.208779s, search-0 time = 0.038830s, search-1 time = 0.571989s
+solution collect done, found 94699 solutions in 31536 buckets, bucket-0 time = 0.196851s, bucket-1 time = 0.191556s, search-0 time = 0.053340s, search-1 time = 0.591084s
+solution collect done, found 101011 solutions in 36792 buckets, bucket-0 time = 0.225125s, bucket-1 time = 0.258630s, search-0 time = 0.066745s, search-1 time = 0.676417s
+solution collect done, found 101891 solutions in 36792 buckets, bucket-0 time = 0.232022s, bucket-1 time = 0.259764s, search-0 time = 0.044603s, search-1 time = 0.661417s
+solution collect done, found 93625 solutions in 36792 buckets, bucket-0 time = 0.227954s, bucket-1 time = 0.253544s, search-0 time = 0.052556s, search-1 time = 0.688324s
+solution collect done, found 94785 solutions in 36792 buckets, bucket-0 time = 0.245492s, bucket-1 time = 0.230006s, search-0 time = 0.053509s, search-1 time = 0.665469s
+solution collect done, found 99098 solutions in 42048 buckets, bucket-0 time = 0.257100s, bucket-1 time = 0.283292s, search-0 time = 0.065727s, search-1 time = 0.779813s
+sieving done.
+bucket-0 time = 2.603082s, bucket-1 time = 2.766104s, search-0 time = 0.620566s, search-1 time = 7.730755s
+sort time = 0.107945s, insert time = 0.185068s
+bucket0 speed: 2212.761642 bucket/s, 1467.395109 GFLOPS
+bucket1 speed: 149929.286824 bucket/s, 1062.930783 GFLOPS
+search0 speed: 9281.849151 bucket/s, 612.140729 GFLOPS
+search1 speed: 53645.471885 bucket/s, 2437.005568 GFLOPS
+num bucket0 = 5760, avg bucket0 size = 39238, num bucket1 = 414720, avg bucket1 size = 691
+bucket cost = 29316 dp/sol, search cost = 83351 dp/sol
+try_add2 = 7384783, try_add3 = 30534, succ_add2 = 1260476(1/5.86), succ_add3 = 15772(1/1.94)
+
+
+begin bgj2 sieve, sieving dimension = 96, pool size = 3178405
+solution collect done, found 97158 solutions in 26280 buckets, bucket-0 time = 0.158287s, bucket-1 time = 0.138964s, search-0 time = 0.029170s, search-1 time = 0.413442s
+solution collect done, found 96473 solutions in 26280 buckets, bucket-0 time = 0.162603s, bucket-1 time = 0.135354s, search-0 time = 0.034753s, search-1 time = 0.419207s
+solution collect done, found 86292 solutions in 26280 buckets, bucket-0 time = 0.153865s, bucket-1 time = 0.178298s, search-0 time = 0.029531s, search-1 time = 0.439114s
+solution collect done, found 86814 solutions in 26280 buckets, bucket-0 time = 0.134061s, bucket-1 time = 0.155713s, search-0 time = 0.034423s, search-1 time = 0.416052s
+solution collect done, found 79657 solutions in 26280 buckets, bucket-0 time = 0.150795s, bucket-1 time = 0.156997s, search-0 time = 0.040052s, search-1 time = 0.439427s
+solution collect done, found 94585 solutions in 31536 buckets, bucket-0 time = 0.180862s, bucket-1 time = 0.191390s, search-0 time = 0.039820s, search-1 time = 0.498632s
+solution collect done, found 88527 solutions in 31536 buckets, bucket-0 time = 0.182229s, bucket-1 time = 0.209819s, search-0 time = 0.035908s, search-1 time = 0.509805s
+solution collect done, found 87704 solutions in 31536 buckets, bucket-0 time = 0.174796s, bucket-1 time = 0.195080s, search-0 time = 0.046234s, search-1 time = 0.492734s
+solution collect done, found 80649 solutions in 31536 buckets, bucket-0 time = 0.174785s, bucket-1 time = 0.177705s, search-0 time = 0.040455s, search-1 time = 0.496686s
+solution collect done, found 81958 solutions in 31536 buckets, bucket-0 time = 0.185449s, bucket-1 time = 0.183771s, search-0 time = 0.043475s, search-1 time = 0.490524s
+solution collect done, found 88347 solutions in 36792 buckets, bucket-0 time = 0.209875s, bucket-1 time = 0.210393s, search-0 time = 0.062963s, search-1 time = 0.590498s
+solution collect done, found 88290 solutions in 36792 buckets, bucket-0 time = 0.203095s, bucket-1 time = 0.233185s, search-0 time = 0.048565s, search-1 time = 0.615086s
+sieving done.
+bucket-0 time = 2.070702s, bucket-1 time = 2.166669s, search-0 time = 0.485349s, search-1 time = 5.821207s
+sort time = 0.101245s, insert time = 0.141535s
+bucket0 speed: 2399.186363 bucket/s, 1364.592084 GFLOPS
+bucket1 speed: 165090.283749 bucket/s, 1041.956378 GFLOPS
+search0 speed: 10235.933318 bucket/s, 581.870476 GFLOPS
+search1 speed: 61447.050414 bucket/s, 2380.464143 GFLOPS
+num bucket0 = 4968, avg bucket0 size = 35296, num bucket1 = 357696, avg bucket1 size = 642
+bucket cost = 26908 dp/sol, search cost = 74848 dp/sol
+try_add2 = 6050172, try_add3 = 25896, succ_add2 = 1042977(1/5.80), succ_add3 = 13477(1/1.92)
+
+
+begin bgj2 sieve, sieving dimension = 95, pool size = 2752580
+solution collect done, found 75119 solutions in 21024 buckets, bucket-0 time = 0.109896s, bucket-1 time = 0.101973s, search-0 time = 0.032090s, search-1 time = 0.326484s
+solution collect done, found 75686 solutions in 21024 buckets, bucket-0 time = 0.118440s, bucket-1 time = 0.107261s, search-0 time = 0.023104s, search-1 time = 0.283894s
+solution collect done, found 83661 solutions in 26280 buckets, bucket-0 time = 0.129725s, bucket-1 time = 0.139125s, search-0 time = 0.032381s, search-1 time = 0.409211s
+solution collect done, found 69217 solutions in 21024 buckets, bucket-0 time = 0.112209s, bucket-1 time = 0.113673s, search-0 time = 0.028325s, search-1 time = 0.295522s
+solution collect done, found 77155 solutions in 26280 buckets, bucket-0 time = 0.133141s, bucket-1 time = 0.161678s, search-0 time = 0.029528s, search-1 time = 0.379540s
+solution collect done, found 78282 solutions in 26280 buckets, bucket-0 time = 0.120875s, bucket-1 time = 0.163800s, search-0 time = 0.030918s, search-1 time = 0.368639s
+solution collect done, found 71271 solutions in 26280 buckets, bucket-0 time = 0.124500s, bucket-1 time = 0.149516s, search-0 time = 0.032170s, search-1 time = 0.384888s
+solution collect done, found 71584 solutions in 26280 buckets, bucket-0 time = 0.135554s, bucket-1 time = 0.139915s, search-0 time = 0.027239s, search-1 time = 0.366690s
+solution collect done, found 79200 solutions in 31536 buckets, bucket-0 time = 0.157108s, bucket-1 time = 0.150573s, search-0 time = 0.045541s, search-1 time = 0.436470s
+solution collect done, found 80031 solutions in 31536 buckets, bucket-0 time = 0.151861s, bucket-1 time = 0.177179s, search-0 time = 0.042805s, search-1 time = 0.442211s
+solution collect done, found 74104 solutions in 31536 buckets, bucket-0 time = 0.168640s, bucket-1 time = 0.162081s, search-0 time = 0.041903s, search-1 time = 0.438473s
+solution collect done, found 73650 solutions in 31536 buckets, bucket-0 time = 0.152190s, bucket-1 time = 0.168249s, search-0 time = 0.032144s, search-1 time = 0.488448s
+solution collect done, found 79070 solutions in 36792 buckets, bucket-0 time = 0.187835s, bucket-1 time = 0.192491s, search-0 time = 0.047102s, search-1 time = 0.543871s
+sieving done.
+bucket-0 time = 1.801974s, bucket-1 time = 1.927514s, search-0 time = 0.445250s, search-1 time = 5.164341s
+sort time = 0.109300s, insert time = 0.123388s
+bucket0 speed: 2717.020334 bucket/s, 1324.181377 GFLOPS
+bucket1 speed: 182884.274771 bucket/s, 1029.785212 GFLOPS
+search0 speed: 10996.069624 bucket/s, 541.958718 GFLOPS
+search1 speed: 68258.854324 bucket/s, 2262.962690 GFLOPS
+num bucket0 = 4896, avg bucket0 size = 31821, num bucket1 = 352512, avg bucket1 size = 597
+bucket cost = 25001 dp/sol, search cost = 68225 dp/sol
+try_add2 = 5732382, try_add3 = 25377, succ_add2 = 975048(1/5.88), succ_add3 = 12982(1/1.95)
+
+
+begin bgj2 sieve, sieving dimension = 94, pool size = 2383804
+solution collect done, found 72624 solutions in 21024 buckets, bucket-0 time = 0.108612s, bucket-1 time = 0.097387s, search-0 time = 0.034962s, search-1 time = 0.263358s
+solution collect done, found 71017 solutions in 21024 buckets, bucket-0 time = 0.097941s, bucket-1 time = 0.101039s, search-0 time = 0.022678s, search-1 time = 0.288662s
+solution collect done, found 64994 solutions in 21024 buckets, bucket-0 time = 0.093907s, bucket-1 time = 0.093573s, search-0 time = 0.026521s, search-1 time = 0.259561s
+solution collect done, found 64768 solutions in 21024 buckets, bucket-0 time = 0.095240s, bucket-1 time = 0.106065s, search-0 time = 0.025831s, search-1 time = 0.267767s
+solution collect done, found 71622 solutions in 26280 buckets, bucket-0 time = 0.107229s, bucket-1 time = 0.122194s, search-0 time = 0.026465s, search-1 time = 0.323656s
+solution collect done, found 59871 solutions in 21024 buckets, bucket-0 time = 0.084901s, bucket-1 time = 0.107502s, search-0 time = 0.022373s, search-1 time = 0.269304s
+solution collect done, found 66951 solutions in 26280 buckets, bucket-0 time = 0.122666s, bucket-1 time = 0.129299s, search-0 time = 0.032067s, search-1 time = 0.322459s
+solution collect done, found 67400 solutions in 26280 buckets, bucket-0 time = 0.114111s, bucket-1 time = 0.123391s, search-0 time = 0.044072s, search-1 time = 0.337259s
+solution collect done, found 62469 solutions in 26280 buckets, bucket-0 time = 0.121012s, bucket-1 time = 0.124184s, search-0 time = 0.023929s, search-1 time = 0.321884s
+solution collect done, found 62361 solutions in 26280 buckets, bucket-0 time = 0.106510s, bucket-1 time = 0.117210s, search-0 time = 0.036942s, search-1 time = 0.349731s
+solution collect done, found 69357 solutions in 31536 buckets, bucket-0 time = 0.136524s, bucket-1 time = 0.143637s, search-0 time = 0.038173s, search-1 time = 0.385423s
+sieving done.
+bucket-0 time = 1.188653s, bucket-1 time = 1.265481s, search-0 time = 0.334013s, search-1 time = 3.389064s
+sort time = 0.069630s, insert time = 0.120240s
+bucket0 speed: 3089.211065 bucket/s, 1290.025473 GFLOPS
+bucket1 speed: 208919.770427 bucket/s, 1051.356855 GFLOPS
+search0 speed: 10993.584082 bucket/s, 474.423122 GFLOPS
+search1 speed: 78010.919829 bucket/s, 2221.937783 GFLOPS
+num bucket0 = 3672, avg bucket0 size = 28741, num bucket1 = 264384, avg bucket1 size = 557
+bucket cost = 22301 dp/sol, search cost = 59873 dp/sol
+try_add2 = 4142692, try_add3 = 18734, succ_add2 = 723797(1/5.72), succ_add3 = 9637(1/1.94)
+
+
+begin bgj2 sieve, sieving dimension = 93, pool size = 2064435
+solution collect done, found 52845 solutions in 15768 buckets, bucket-0 time = 0.068934s, bucket-1 time = 0.076691s, search-0 time = 0.013440s, search-1 time = 0.183294s
+solution collect done, found 52282 solutions in 15768 buckets, bucket-0 time = 0.058870s, bucket-1 time = 0.084130s, search-0 time = 0.012240s, search-1 time = 0.168500s
+solution collect done, found 63516 solutions in 21024 buckets, bucket-0 time = 0.077596s, bucket-1 time = 0.092356s, search-0 time = 0.024096s, search-1 time = 0.219473s
+solution collect done, found 62931 solutions in 21024 buckets, bucket-0 time = 0.096536s, bucket-1 time = 0.087986s, search-0 time = 0.021649s, search-1 time = 0.265310s
+solution collect done, found 57346 solutions in 21024 buckets, bucket-0 time = 0.082461s, bucket-1 time = 0.099493s, search-0 time = 0.022093s, search-1 time = 0.229729s
+solution collect done, found 57313 solutions in 21024 buckets, bucket-0 time = 0.086701s, bucket-1 time = 0.079836s, search-0 time = 0.021376s, search-1 time = 0.238188s
+solution collect done, found 53463 solutions in 21024 buckets, bucket-0 time = 0.079980s, bucket-1 time = 0.089846s, search-0 time = 0.022355s, search-1 time = 0.247914s
+solution collect done, found 52721 solutions in 21024 buckets, bucket-0 time = 0.092401s, bucket-1 time = 0.107784s, search-0 time = 0.027294s, search-1 time = 0.226123s
+solution collect done, found 61083 solutions in 26280 buckets, bucket-0 time = 0.100283s, bucket-1 time = 0.123743s, search-0 time = 0.026219s, search-1 time = 0.325532s
+solution collect done, found 61135 solutions in 26280 buckets, bucket-0 time = 0.115049s, bucket-1 time = 0.110265s, search-0 time = 0.027702s, search-1 time = 0.285151s
+solution collect done, found 55986 solutions in 26280 buckets, bucket-0 time = 0.097837s, bucket-1 time = 0.115177s, search-0 time = 0.022539s, search-1 time = 0.278909s
+solution collect done, found 56520 solutions in 26280 buckets, bucket-0 time = 0.099601s, bucket-1 time = 0.107944s, search-0 time = 0.024297s, search-1 time = 0.331198s
+sieving done.
+bucket-0 time = 1.056249s, bucket-1 time = 1.175251s, search-0 time = 0.265300s, search-1 time = 2.999321s
+sort time = 0.063709s, insert time = 0.098234s
+bucket0 speed: 3408.287250 bucket/s, 1219.404039 GFLOPS
+bucket1 speed: 220548.631739 bucket/s, 984.794991 GFLOPS
+search0 speed: 13569.543913 bucket/s, 501.319327 GFLOPS
+search1 speed: 86419.559627 bucket/s, 2091.387423 GFLOPS
+num bucket0 = 3600, avg bucket0 size = 25776, num bucket1 = 259200, avg bucket1 size = 516
+bucket cost = 20544 dp/sol, search cost = 53815 dp/sol
+try_add2 = 3893604, try_add3 = 18113, succ_add2 = 677832(1/5.74), succ_add3 = 9309(1/1.95)
+
+
+begin bgj2 sieve, sieving dimension = 92, pool size = 1787853
+solution collect done, found 50477 solutions in 15768 buckets, bucket-0 time = 0.074061s, bucket-1 time = 0.065734s, search-0 time = 0.019703s, search-1 time = 0.147961s
+solution collect done, found 50280 solutions in 15768 buckets, bucket-0 time = 0.057980s, bucket-1 time = 0.057914s, search-0 time = 0.014897s, search-1 time = 0.155547s
+solution collect done, found 45957 solutions in 15768 buckets, bucket-0 time = 0.052864s, bucket-1 time = 0.062028s, search-0 time = 0.011795s, search-1 time = 0.171561s
+solution collect done, found 45396 solutions in 15768 buckets, bucket-0 time = 0.057206s, bucket-1 time = 0.064158s, search-0 time = 0.012406s, search-1 time = 0.161431s
+solution collect done, found 55857 solutions in 21024 buckets, bucket-0 time = 0.072092s, bucket-1 time = 0.091022s, search-0 time = 0.019475s, search-1 time = 0.198187s
+solution collect done, found 54852 solutions in 21024 buckets, bucket-0 time = 0.068617s, bucket-1 time = 0.098216s, search-0 time = 0.013728s, search-1 time = 0.222048s
+solution collect done, found 50736 solutions in 21024 buckets, bucket-0 time = 0.072718s, bucket-1 time = 0.082403s, search-0 time = 0.017610s, search-1 time = 0.218540s
+solution collect done, found 51259 solutions in 21024 buckets, bucket-0 time = 0.076059s, bucket-1 time = 0.097756s, search-0 time = 0.014469s, search-1 time = 0.203898s
+solution collect done, found 47675 solutions in 21024 buckets, bucket-0 time = 0.078818s, bucket-1 time = 0.081083s, search-0 time = 0.017393s, search-1 time = 0.202764s
+solution collect done, found 47034 solutions in 21024 buckets, bucket-0 time = 0.071792s, bucket-1 time = 0.082673s, search-0 time = 0.024387s, search-1 time = 0.224745s
+solution collect done, found 55006 solutions in 26280 buckets, bucket-0 time = 0.096180s, bucket-1 time = 0.110072s, search-0 time = 0.035797s, search-1 time = 0.264021s
+solution collect done, found 54154 solutions in 26280 buckets, bucket-0 time = 0.100658s, bucket-1 time = 0.087527s, search-0 time = 0.029049s, search-1 time = 0.265262s
+sieving done.
+bucket-0 time = 0.879045s, bucket-1 time = 0.980586s, search-0 time = 0.230709s, search-1 time = 2.435965s
+sort time = 0.079421s, insert time = 0.099057s
+bucket0 speed: 3767.725202 bucket/s, 1154.657727 GFLOPS
+bucket1 speed: 243185.197423 bucket/s, 970.120845 GFLOPS
+search0 speed: 14355.746850 bucket/s, 461.453321 GFLOPS
+search1 speed: 97893.032125 bucket/s, 2027.830929 GFLOPS
+num bucket0 = 3312, avg bucket0 size = 23279, num bucket1 = 238464, avg bucket1 size = 480
+bucket cost = 18851 dp/sol, search cost = 48378 dp/sol
+try_add2 = 3468816, try_add3 = 16778, succ_add2 = 600265(1/5.78), succ_add3 = 8418(1/1.99)
+
+
+begin bgj2 sieve, sieving dimension = 91, pool size = 1548326
+solution collect done, found 48034 solutions in 15768 buckets, bucket-0 time = 0.052958s, bucket-1 time = 0.063988s, search-0 time = 0.009227s, search-1 time = 0.155289s
+solution collect done, found 47620 solutions in 15768 buckets, bucket-0 time = 0.047249s, bucket-1 time = 0.072865s, search-0 time = 0.013204s, search-1 time = 0.152773s
+solution collect done, found 43351 solutions in 15768 buckets, bucket-0 time = 0.057547s, bucket-1 time = 0.054381s, search-0 time = 0.017814s, search-1 time = 0.136196s
+solution collect done, found 43574 solutions in 15768 buckets, bucket-0 time = 0.047869s, bucket-1 time = 0.054390s, search-0 time = 0.013204s, search-1 time = 0.144615s
+solution collect done, found 39393 solutions in 15768 buckets, bucket-0 time = 0.043759s, bucket-1 time = 0.056113s, search-0 time = 0.017204s, search-1 time = 0.143533s
+solution collect done, found 39760 solutions in 15768 buckets, bucket-0 time = 0.046780s, bucket-1 time = 0.065194s, search-0 time = 0.011418s, search-1 time = 0.143826s
+solution collect done, found 48354 solutions in 21024 buckets, bucket-0 time = 0.062174s, bucket-1 time = 0.074339s, search-0 time = 0.014587s, search-1 time = 0.195895s
+solution collect done, found 48077 solutions in 21024 buckets, bucket-0 time = 0.060259s, bucket-1 time = 0.076413s, search-0 time = 0.015524s, search-1 time = 0.228978s
+solution collect done, found 44210 solutions in 21024 buckets, bucket-0 time = 0.067228s, bucket-1 time = 0.075151s, search-0 time = 0.016982s, search-1 time = 0.220072s
+solution collect done, found 44554 solutions in 21024 buckets, bucket-0 time = 0.060389s, bucket-1 time = 0.070348s, search-0 time = 0.017257s, search-1 time = 0.187886s
+solution collect done, found 41427 solutions in 21024 buckets, bucket-0 time = 0.072140s, bucket-1 time = 0.075062s, search-0 time = 0.022918s, search-1 time = 0.195043s
+solution collect done, found 41231 solutions in 21024 buckets, bucket-0 time = 0.061994s, bucket-1 time = 0.090319s, search-0 time = 0.016024s, search-1 time = 0.189893s
+sieving done.
+bucket-0 time = 0.680346s, bucket-1 time = 0.828563s, search-0 time = 0.185363s, search-1 time = 2.093999s
+sort time = 0.047042s, insert time = 0.062842s
+bucket0 speed: 4444.797206 bucket/s, 1166.614635 GFLOPS
+bucket1 speed: 262777.845499 bucket/s, 932.885426 GFLOPS
+search0 speed: 16313.935359 bucket/s, 453.495105 GFLOPS
+search1 speed: 103977.127019 bucket/s, 1830.604365 GFLOPS
+num bucket0 = 3024, avg bucket0 size = 20944, num bucket1 = 217728, avg bucket1 size = 445
+bucket cost = 17452 dp/sol, search cost = 43639 dp/sol
+try_add2 = 3036205, try_add3 = 15557, succ_add2 = 521842(1/5.82), succ_add3 = 7743(1/2.01)
+
+
+begin bgj1 sieve, sieving dimension = 90, pool size = 1340889
+solution collect done, found 35698 solutions in 576 buckets, bucket time = 0.097842s, search time = 0.180321s
+solution collect done, found 35802 solutions in 576 buckets, bucket time = 0.090578s, search time = 0.179410s
+solution collect done, found 38308 solutions in 672 buckets, bucket time = 0.114729s, search time = 0.222957s
+solution collect done, found 38847 solutions in 672 buckets, bucket time = 0.110186s, search time = 0.211385s
+solution collect done, found 35842 solutions in 672 buckets, bucket time = 0.101663s, search time = 0.201050s
+solution collect done, found 36730 solutions in 672 buckets, bucket time = 0.105625s, search time = 0.215803s
+solution collect done, found 34125 solutions in 672 buckets, bucket time = 0.101278s, search time = 0.197013s
+solution collect done, found 34781 solutions in 672 buckets, bucket time = 0.100104s, search time = 0.216416s
+solution collect done, found 37077 solutions in 768 buckets, bucket time = 0.130188s, search time = 0.240506s
+solution collect done, found 33770 solutions in 672 buckets, bucket time = 0.102104s, search time = 0.211463s
+solution collect done, found 35405 solutions in 768 buckets, bucket time = 0.135320s, search time = 0.242222s
+solution collect done, found 36359 solutions in 768 buckets, bucket time = 0.120699s, search time = 0.226854s
+solution collect done, found 34074 solutions in 768 buckets, bucket time = 0.123730s, search time = 0.235623s
+solution collect done, found 34475 solutions in 768 buckets, bucket time = 0.140076s, search time = 0.254474s
+sieving done.
+bucket time = 1.574122s, search time = 3.035497s, sort time = 0.063830s, insert time = 0.075298s
+bucket0 speed: 6159.624222 bucket/s, 1385.130333 GFLOPS
+search0 speed: 3194.205101 bucket/s, 1467.180275 GFLOPS
+num bucket = 9696, avg bucket size = 2315
+bucket cost = 25945 dp/sol, search cost = 52996 dp/sol
+try_add2 = 1706808, try_add3 = 131068, succ_add2 = 413990(1/4.12), succ_add3 = 87303(1/1.50)
+
+
+begin bgj1 sieve, sieving dimension = 89, pool size = 1161244
+solution collect done, found 29638 solutions in 480 buckets, bucket time = 0.090514s, search time = 0.152996s
+solution collect done, found 29168 solutions in 480 buckets, bucket time = 0.075863s, search time = 0.147674s
+solution collect done, found 32795 solutions in 576 buckets, bucket time = 0.075132s, search time = 0.160756s
+solution collect done, found 33073 solutions in 576 buckets, bucket time = 0.079400s, search time = 0.146465s
+solution collect done, found 30736 solutions in 576 buckets, bucket time = 0.078390s, search time = 0.147120s
+solution collect done, found 31471 solutions in 576 buckets, bucket time = 0.058631s, search time = 0.142319s
+solution collect done, found 29391 solutions in 576 buckets, bucket time = 0.066333s, search time = 0.145280s
+solution collect done, found 29709 solutions in 576 buckets, bucket time = 0.082241s, search time = 0.147759s
+solution collect done, found 32480 solutions in 672 buckets, bucket time = 0.092518s, search time = 0.179665s
+solution collect done, found 33361 solutions in 672 buckets, bucket time = 0.091324s, search time = 0.178122s
+solution collect done, found 30625 solutions in 672 buckets, bucket time = 0.083841s, search time = 0.179253s
+solution collect done, found 31366 solutions in 672 buckets, bucket time = 0.099932s, search time = 0.162971s
+solution collect done, found 32635 solutions in 768 buckets, bucket time = 0.107325s, search time = 0.201592s
+sieving done.
+bucket time = 1.081444s, search time = 2.091972s, sort time = 0.043103s, insert time = 0.069317s
+bucket0 speed: 7279.156387 bucket/s, 1401.811633 GFLOPS
+search0 speed: 3762.956674 bucket/s, 1442.200018 GFLOPS
+num bucket = 7872, avg bucket size = 2127
+bucket cost = 22499 dp/sol, search cost = 44777 dp/sol
+try_add2 = 1267089, try_add3 = 103623, succ_add2 = 336919(1/3.76), succ_add3 = 69529(1/1.49)
+
+
+begin bgj1 sieve, sieving dimension = 88, pool size = 1005667
+solution collect done, found 28136 solutions in 480 buckets, bucket time = 0.072174s, search time = 0.141100s
+solution collect done, found 28037 solutions in 480 buckets, bucket time = 0.071088s, search time = 0.137864s
+solution collect done, found 26816 solutions in 480 buckets, bucket time = 0.078830s, search time = 0.119883s
+solution collect done, found 27125 solutions in 480 buckets, bucket time = 0.056631s, search time = 0.121125s
+solution collect done, found 29887 solutions in 576 buckets, bucket time = 0.089605s, search time = 0.141708s
+solution collect done, found 29695 solutions in 576 buckets, bucket time = 0.064485s, search time = 0.151603s
+solution collect done, found 27760 solutions in 576 buckets, bucket time = 0.064381s, search time = 0.143914s
+solution collect done, found 28422 solutions in 576 buckets, bucket time = 0.063447s, search time = 0.128029s
+solution collect done, found 25943 solutions in 576 buckets, bucket time = 0.069470s, search time = 0.135069s
+solution collect done, found 26109 solutions in 576 buckets, bucket time = 0.076167s, search time = 0.134524s
+solution collect done, found 29176 solutions in 672 buckets, bucket time = 0.079085s, search time = 0.156968s
+solution collect done, found 25404 solutions in 576 buckets, bucket time = 0.075975s, search time = 0.122571s
+solution collect done, found 27371 solutions in 672 buckets, bucket time = 0.091164s, search time = 0.157351s
+sieving done.
+bucket time = 0.952502s, search time = 1.791709s, sort time = 0.050178s, insert time = 0.062180s
+bucket0 speed: 7659.826436 bucket/s, 1263.171348 GFLOPS
+search0 speed: 4072.089832 bucket/s, 1293.484524 GFLOPS
+num bucket = 7296, avg bucket size = 1946
+bucket cost = 20396 dp/sol, search cost = 39287 dp/sol
+try_add2 = 1090190, try_add3 = 93932, succ_add2 = 297242(1/3.67), succ_add3 = 62639(1/1.50)
+
+
+begin bgj1 sieve, sieving dimension = 87, pool size = 870933
+solution collect done, found 21782 solutions in 384 buckets, bucket time = 0.041299s, search time = 0.093439s
+solution collect done, found 22263 solutions in 384 buckets, bucket time = 0.044920s, search time = 0.088490s
+solution collect done, found 25461 solutions in 480 buckets, bucket time = 0.044493s, search time = 0.104529s
+solution collect done, found 25551 solutions in 480 buckets, bucket time = 0.056032s, search time = 0.097801s
+solution collect done, found 23715 solutions in 480 buckets, bucket time = 0.051727s, search time = 0.109015s
+solution collect done, found 23999 solutions in 480 buckets, bucket time = 0.059871s, search time = 0.104684s
+solution collect done, found 22337 solutions in 480 buckets, bucket time = 0.048186s, search time = 0.108822s
+solution collect done, found 22711 solutions in 480 buckets, bucket time = 0.059681s, search time = 0.097548s
+solution collect done, found 25629 solutions in 576 buckets, bucket time = 0.063107s, search time = 0.134258s
+solution collect done, found 22090 solutions in 480 buckets, bucket time = 0.091964s, search time = 0.096319s
+solution collect done, found 23718 solutions in 576 buckets, bucket time = 0.068652s, search time = 0.114059s
+solution collect done, found 24506 solutions in 576 buckets, bucket time = 0.057094s, search time = 0.123176s
+sieving done.
+bucket time = 0.687026s, search time = 1.272140s, sort time = 0.052200s, insert time = 0.066498s
+bucket0 speed: 8523.694882 bucket/s, 1203.361274 GFLOPS
+search0 speed: 4603.266936 bucket/s, 1234.301471 GFLOPS
+num bucket = 5856, avg bucket size = 1799
+bucket cost = 17979 dp/sol, search cost = 34146 dp/sol
+try_add2 = 832039, try_add3 = 74320, succ_add2 = 234415(1/3.55), succ_add3 = 49347(1/1.51)
+
+
+begin bgj1 sieve, sieving dimension = 86, pool size = 754250
+solution collect done, found 21261 solutions in 384 buckets, bucket time = 0.054774s, search time = 0.104127s
+solution collect done, found 21649 solutions in 384 buckets, bucket time = 0.041545s, search time = 0.099210s
+solution collect done, found 19807 solutions in 384 buckets, bucket time = 0.040056s, search time = 0.099004s
+solution collect done, found 20362 solutions in 384 buckets, bucket time = 0.041163s, search time = 0.088061s
+solution collect done, found 23229 solutions in 480 buckets, bucket time = 0.037880s, search time = 0.101096s
+solution collect done, found 23463 solutions in 480 buckets, bucket time = 0.052116s, search time = 0.114362s
+solution collect done, found 22066 solutions in 480 buckets, bucket time = 0.041542s, search time = 0.113973s
+solution collect done, found 21524 solutions in 480 buckets, bucket time = 0.039360s, search time = 0.106396s
+solution collect done, found 20734 solutions in 480 buckets, bucket time = 0.045954s, search time = 0.106476s
+solution collect done, found 20641 solutions in 480 buckets, bucket time = 0.044930s, search time = 0.099548s
+solution collect done, found 19589 solutions in 480 buckets, bucket time = 0.036362s, search time = 0.100034s
+solution collect done, found 19748 solutions in 480 buckets, bucket time = 0.041558s, search time = 0.114162s
+solution collect done, found 22038 solutions in 576 buckets, bucket time = 0.052358s, search time = 0.123017s
+sieving done.
+bucket time = 0.569598s, search time = 1.369466s, sort time = 0.027452s, insert time = 0.042512s
+bucket0 speed: 10449.474893 bucket/s, 1263.027625 GFLOPS
+search0 speed: 4346.219621 bucket/s, 976.552429 GFLOPS
+num bucket = 5952, avg bucket size = 1658
+bucket cost = 16265 dp/sol, search cost = 30236 dp/sol
+try_add2 = 802115, try_add3 = 75123, succ_add2 = 226448(1/3.54), succ_add3 = 49663(1/1.51)
+
+
+begin bgj1 sieve, sieving dimension = 85, pool size = 653200
+solution collect done, found 20254 solutions in 384 buckets, bucket time = 0.037139s, search time = 0.095195s
+solution collect done, found 19913 solutions in 384 buckets, bucket time = 0.031924s, search time = 0.087610s
+solution collect done, found 19104 solutions in 384 buckets, bucket time = 0.061701s, search time = 0.078422s
+solution collect done, found 18616 solutions in 384 buckets, bucket time = 0.053780s, search time = 0.079577s
+solution collect done, found 17446 solutions in 384 buckets, bucket time = 0.037068s, search time = 0.087995s
+solution collect done, found 17769 solutions in 384 buckets, bucket time = 0.039406s, search time = 0.095429s
+solution collect done, found 16510 solutions in 384 buckets, bucket time = 0.040746s, search time = 0.078855s
+solution collect done, found 16617 solutions in 384 buckets, bucket time = 0.048640s, search time = 0.081353s
+solution collect done, found 19322 solutions in 480 buckets, bucket time = 0.040831s, search time = 0.101857s
+solution collect done, found 19577 solutions in 480 buckets, bucket time = 0.044916s, search time = 0.111606s
+solution collect done, found 18306 solutions in 480 buckets, bucket time = 0.051361s, search time = 0.096873s
+solution collect done, found 18727 solutions in 480 buckets, bucket time = 0.046749s, search time = 0.077772s
+sieving done.
+bucket time = 0.534261s, search time = 1.072544s, sort time = 0.048558s, insert time = 0.030184s
+bucket0 speed: 9343.747719 bucket/s, 966.807142 GFLOPS
+search0 speed: 4654.354507 bucket/s, 880.841592 GFLOPS
+num bucket = 4992, avg bucket size = 1530
+bucket cost = 14685 dp/sol, search cost = 26859 dp/sol
+try_add2 = 636391, try_add3 = 61126, succ_add2 = 181881(1/3.50), succ_add3 = 40280(1/1.52)
+
+
+begin bgj1 sieve, sieving dimension = 84, pool size = 565687
+solution collect done, found 14404 solutions in 288 buckets, bucket time = 0.024179s, search time = 0.075160s
+solution collect done, found 14971 solutions in 288 buckets, bucket time = 0.016552s, search time = 0.068270s
+solution collect done, found 17995 solutions in 384 buckets, bucket time = 0.040470s, search time = 0.081563s
+solution collect done, found 18362 solutions in 384 buckets, bucket time = 0.049052s, search time = 0.063484s
+solution collect done, found 16557 solutions in 384 buckets, bucket time = 0.035844s, search time = 0.077388s
+solution collect done, found 16924 solutions in 384 buckets, bucket time = 0.038975s, search time = 0.081989s
+solution collect done, found 15618 solutions in 384 buckets, bucket time = 0.030699s, search time = 0.087809s
+solution collect done, found 15569 solutions in 384 buckets, bucket time = 0.027011s, search time = 0.099375s
+solution collect done, found 14716 solutions in 384 buckets, bucket time = 0.027775s, search time = 0.069404s
+solution collect done, found 15199 solutions in 384 buckets, bucket time = 0.033566s, search time = 0.093776s
+solution collect done, found 14227 solutions in 384 buckets, bucket time = 0.028013s, search time = 0.064433s
+solution collect done, found 14364 solutions in 384 buckets, bucket time = 0.034340s, search time = 0.068959s
+sieving done.
+bucket time = 0.386476s, search time = 0.931610s, sort time = 0.058390s, insert time = 0.042875s
+bucket0 speed: 11426.324015 bucket/s, 1011.754303 GFLOPS
+search0 speed: 4740.180977 bucket/s, 741.116424 GFLOPS
+num bucket = 4416, avg bucket size = 1398
+bucket cost = 13229 dp/sol, search cost = 23359 dp/sol
+try_add2 = 528951, try_add3 = 53345, succ_add2 = 153547(1/3.44), succ_add3 = 35359(1/1.51)
+
+
+begin bgj1 sieve, sieving dimension = 83, pool size = 489900
+solution collect done, found 14023 solutions in 288 buckets, bucket time = 0.019352s, search time = 0.074754s
+solution collect done, found 14200 solutions in 288 buckets, bucket time = 0.015899s, search time = 0.059348s
+solution collect done, found 13054 solutions in 288 buckets, bucket time = 0.015373s, search time = 0.054221s
+solution collect done, found 12850 solutions in 288 buckets, bucket time = 0.015457s, search time = 0.063037s
+solution collect done, found 16154 solutions in 384 buckets, bucket time = 0.030389s, search time = 0.075815s
+solution collect done, found 12568 solutions in 288 buckets, bucket time = 0.026883s, search time = 0.063713s
+solution collect done, found 15142 solutions in 384 buckets, bucket time = 0.053340s, search time = 0.078296s
+solution collect done, found 15720 solutions in 384 buckets, bucket time = 0.029107s, search time = 0.074703s
+solution collect done, found 14541 solutions in 384 buckets, bucket time = 0.043480s, search time = 0.064610s
+solution collect done, found 14707 solutions in 384 buckets, bucket time = 0.031958s, search time = 0.053112s
+solution collect done, found 13706 solutions in 384 buckets, bucket time = 0.056461s, search time = 0.059141s
+solution collect done, found 13946 solutions in 384 buckets, bucket time = 0.024977s, search time = 0.068673s
+sieving done.
+bucket time = 0.362676s, search time = 0.789423s, sort time = 0.039825s, insert time = 0.046444s
+bucket0 speed: 11382.060021 bucket/s, 862.402732 GFLOPS
+search0 speed: 5229.135711 bucket/s, 692.622532 GFLOPS
+num bucket = 4128, avg bucket size = 1295
+bucket cost = 11858 dp/sol, search cost = 20729 dp/sol
+try_add2 = 471744, try_add3 = 49429, succ_add2 = 137965(1/3.42), succ_add3 = 32646(1/1.51)
+
+
+begin bgj1 sieve, sieving dimension = 82, pool size = 424265
+solution collect done, found 13195 solutions in 288 buckets, bucket time = 0.029457s, search time = 0.054771s
+solution collect done, found 13326 solutions in 288 buckets, bucket time = 0.019023s, search time = 0.051900s
+solution collect done, found 12258 solutions in 288 buckets, bucket time = 0.013050s, search time = 0.047880s
+solution collect done, found 12112 solutions in 288 buckets, bucket time = 0.025695s, search time = 0.049562s
+solution collect done, found 11104 solutions in 288 buckets, bucket time = 0.020984s, search time = 0.048706s
+solution collect done, found 11277 solutions in 288 buckets, bucket time = 0.012879s, search time = 0.051643s
+solution collect done, found 11051 solutions in 288 buckets, bucket time = 0.022738s, search time = 0.049028s
+solution collect done, found 10858 solutions in 288 buckets, bucket time = 0.029237s, search time = 0.048152s
+solution collect done, found 13580 solutions in 384 buckets, bucket time = 0.029305s, search time = 0.069404s
+solution collect done, found 13460 solutions in 384 buckets, bucket time = 0.053358s, search time = 0.070932s
+solution collect done, found 12522 solutions in 384 buckets, bucket time = 0.018371s, search time = 0.065861s
+solution collect done, found 12553 solutions in 384 buckets, bucket time = 0.034143s, search time = 0.073529s
+sieving done.
+bucket time = 0.308240s, search time = 0.681368s, sort time = 0.036702s, insert time = 0.029010s
+bucket0 speed: 12457.825071 bucket/s, 807.563108 GFLOPS
+search0 speed: 5635.721079 bucket/s, 617.799810 GFLOPS
+num bucket = 3840, avg bucket size = 1185
+bucket cost = 11064 dp/sol, search cost = 18710 dp/sol
+try_add2 = 408168, try_add3 = 44232, succ_add2 = 118622(1/3.44), succ_add3 = 28674(1/1.54)
+
+
+begin bgj1 sieve, sieving dimension = 81, pool size = 367425
+solution collect done, found 12479 solutions in 288 buckets, bucket time = 0.012048s, search time = 0.044222s
+solution collect done, found 12602 solutions in 288 buckets, bucket time = 0.012445s, search time = 0.043626s
+solution collect done, found 11129 solutions in 288 buckets, bucket time = 0.024350s, search time = 0.041174s
+solution collect done, found 11488 solutions in 288 buckets, bucket time = 0.011245s, search time = 0.048325s
+solution collect done, found 10531 solutions in 288 buckets, bucket time = 0.011329s, search time = 0.043983s
+solution collect done, found 10593 solutions in 288 buckets, bucket time = 0.011069s, search time = 0.038668s
+solution collect done, found 10270 solutions in 288 buckets, bucket time = 0.014646s, search time = 0.042524s
+solution collect done, found 10012 solutions in 288 buckets, bucket time = 0.014547s, search time = 0.044075s
+solution collect done, found 9507 solutions in 288 buckets, bucket time = 0.019678s, search time = 0.052056s
+solution collect done, found 9557 solutions in 288 buckets, bucket time = 0.011312s, search time = 0.043428s
+solution collect done, found 11989 solutions in 384 buckets, bucket time = 0.016374s, search time = 0.058952s
+sieving done.
+bucket time = 0.159043s, search time = 0.501033s, sort time = 0.031494s, insert time = 0.028433s
+bucket0 speed: 20522.751709 bucket/s, 1138.188558 GFLOPS
+search0 speed: 6514.540958 bucket/s, 597.096076 GFLOPS
+num bucket = 3264, avg bucket size = 1091
+bucket cost = 9985 dp/sol, search cost = 16502 dp/sol
+try_add2 = 326235, try_add3 = 36684, succ_add2 = 96537(1/3.38), succ_add3 = 23620(1/1.55)
+
+
+begin bgj1 sieve, sieving dimension = 80, pool size = 318199
+solution collect done, found 11801 solutions in 288 buckets, bucket time = 0.022514s, search time = 0.040127s
+solution collect done, found 8186 solutions in 192 buckets, bucket time = 0.006789s, search time = 0.026757s
+solution collect done, found 10821 solutions in 288 buckets, bucket time = 0.009841s, search time = 0.043070s
+solution collect done, found 11191 solutions in 288 buckets, bucket time = 0.016862s, search time = 0.037621s
+solution collect done, found 10316 solutions in 288 buckets, bucket time = 0.010925s, search time = 0.033921s
+solution collect done, found 10392 solutions in 288 buckets, bucket time = 0.009730s, search time = 0.048038s
+solution collect done, found 9643 solutions in 288 buckets, bucket time = 0.009922s, search time = 0.035489s
+solution collect done, found 9803 solutions in 288 buckets, bucket time = 0.016586s, search time = 0.033243s
+solution collect done, found 9092 solutions in 288 buckets, bucket time = 0.010707s, search time = 0.044295s
+sieving done.
+bucket time = 0.113876s, search time = 0.342561s, sort time = 0.021489s, insert time = 0.028235s
+bucket0 speed: 21918.578102 bucket/s, 1039.677439 GFLOPS
+search0 speed: 7286.293536 bucket/s, 558.435715 GFLOPS
+num bucket = 2496, avg bucket size = 1004
+bucket cost = 8707 dp/sol, search cost = 14069 dp/sol
+try_add2 = 239176, try_add3 = 27969, succ_add2 = 73113(1/3.27), succ_add3 = 18132(1/1.54)
+
+
+begin bgj1 sieve, sieving dimension = 79, pool size = 275568
+solution collect done, found 7895 solutions in 192 buckets, bucket time = 0.009621s, search time = 0.017828s
+solution collect done, found 8007 solutions in 192 buckets, bucket time = 0.016978s, search time = 0.022534s
+solution collect done, found 7629 solutions in 192 buckets, bucket time = 0.014424s, search time = 0.025093s
+solution collect done, found 7400 solutions in 192 buckets, bucket time = 0.006923s, search time = 0.019879s
+solution collect done, found 10054 solutions in 288 buckets, bucket time = 0.016662s, search time = 0.030687s
+solution collect done, found 10242 solutions in 288 buckets, bucket time = 0.009425s, search time = 0.035532s
+solution collect done, found 9344 solutions in 288 buckets, bucket time = 0.017154s, search time = 0.029355s
+solution collect done, found 9301 solutions in 288 buckets, bucket time = 0.017058s, search time = 0.037612s
+solution collect done, found 8863 solutions in 288 buckets, bucket time = 0.014939s, search time = 0.039515s
+solution collect done, found 9066 solutions in 288 buckets, bucket time = 0.008754s, search time = 0.035138s
+solution collect done, found 8477 solutions in 288 buckets, bucket time = 0.012067s, search time = 0.032927s
+sieving done.
+bucket time = 0.144005s, search time = 0.326100s, sort time = 0.026049s, insert time = 0.021604s
+bucket0 speed: 19332.662060 bucket/s, 784.640010 GFLOPS
+search0 speed: 8537.258510 bucket/s, 553.781266 GFLOPS
+num bucket = 2784, avg bucket size = 930
+bucket cost = 7975 dp/sol, search cost = 12746 dp/sol
+try_add2 = 253465, try_add3 = 30919, succ_add2 = 76682(1/3.31), succ_add3 = 19596(1/1.58)
+
+
+begin bgj1 sieve, sieving dimension = 78, pool size = 238649
+solution collect done, found 7580 solutions in 192 buckets, bucket time = 0.007467s, search time = 0.022392s
+solution collect done, found 7796 solutions in 192 buckets, bucket time = 0.005394s, search time = 0.019014s
+solution collect done, found 7103 solutions in 192 buckets, bucket time = 0.005403s, search time = 0.020321s
+solution collect done, found 7167 solutions in 192 buckets, bucket time = 0.005385s, search time = 0.020146s
+solution collect done, found 6577 solutions in 192 buckets, bucket time = 0.005445s, search time = 0.020398s
+solution collect done, found 6784 solutions in 192 buckets, bucket time = 0.013426s, search time = 0.021132s
+solution collect done, found 6063 solutions in 192 buckets, bucket time = 0.007682s, search time = 0.020095s
+solution collect done, found 6178 solutions in 192 buckets, bucket time = 0.005355s, search time = 0.021272s
+solution collect done, found 8643 solutions in 288 buckets, bucket time = 0.008538s, search time = 0.031132s
+solution collect done, found 8655 solutions in 288 buckets, bucket time = 0.014497s, search time = 0.026758s
+sieving done.
+bucket time = 0.078592s, search time = 0.222660s, sort time = 0.022283s, insert time = 0.009739s
+bucket0 speed: 26872.964169 bucket/s, 932.578110 GFLOPS
+search0 speed: 9485.313932 bucket/s, 514.034184 GFLOPS
+num bucket = 2112, avg bucket size = 856
+bucket cost = 6953 dp/sol, search cost = 10859 dp/sol
+try_add2 = 183846, try_add3 = 23315, succ_add2 = 57519(1/3.20), succ_add3 = 15027(1/1.55)
+
+
+begin bgj1 sieve, sieving dimension = 77, pool size = 206676
+solution collect done, found 7173 solutions in 192 buckets, bucket time = 0.006304s, search time = 0.020741s
+solution collect done, found 7467 solutions in 192 buckets, bucket time = 0.005914s, search time = 0.019670s
+solution collect done, found 6539 solutions in 192 buckets, bucket time = 0.005605s, search time = 0.018232s
+solution collect done, found 6758 solutions in 192 buckets, bucket time = 0.005502s, search time = 0.021564s
+solution collect done, found 6343 solutions in 192 buckets, bucket time = 0.005640s, search time = 0.020252s
+solution collect done, found 6211 solutions in 192 buckets, bucket time = 0.005650s, search time = 0.018271s
+solution collect done, found 5918 solutions in 192 buckets, bucket time = 0.013353s, search time = 0.016643s
+solution collect done, found 5996 solutions in 192 buckets, bucket time = 0.005482s, search time = 0.017534s
+solution collect done, found 5618 solutions in 192 buckets, bucket time = 0.011046s, search time = 0.014409s
+solution collect done, found 5688 solutions in 192 buckets, bucket time = 0.005504s, search time = 0.020476s
+solution collect done, found 7710 solutions in 288 buckets, bucket time = 0.006735s, search time = 0.021291s
+sieving done.
+bucket time = 0.076735s, search time = 0.209083s, sort time = 0.018264s, insert time = 0.010888s
+bucket0 speed: 28774.353294 bucket/s, 853.499284 GFLOPS
+search0 speed: 10560.399459 bucket/s, 478.865442 GFLOPS
+num bucket = 2208, avg bucket size = 788
+bucket cost = 6393 dp/sol, search cost = 9774 dp/sol
+try_add2 = 182152, try_add3 = 23799, succ_add2 = 56199(1/3.24), succ_add3 = 15222(1/1.56)
+
+
+begin bgj1 sieve, sieving dimension = 76, pool size = 178987
+solution collect done, found 6903 solutions in 192 buckets, bucket time = 0.004894s, search time = 0.014377s
+solution collect done, found 6852 solutions in 192 buckets, bucket time = 0.011371s, search time = 0.012585s
+solution collect done, found 6448 solutions in 192 buckets, bucket time = 0.004593s, search time = 0.014410s
+solution collect done, found 6547 solutions in 192 buckets, bucket time = 0.004221s, search time = 0.019409s
+solution collect done, found 5784 solutions in 192 buckets, bucket time = 0.004267s, search time = 0.016790s
+solution collect done, found 5902 solutions in 192 buckets, bucket time = 0.004185s, search time = 0.013997s
+solution collect done, found 5441 solutions in 192 buckets, bucket time = 0.004272s, search time = 0.012983s
+solution collect done, found 5435 solutions in 192 buckets, bucket time = 0.004232s, search time = 0.013015s
+solution collect done, found 5294 solutions in 192 buckets, bucket time = 0.004135s, search time = 0.014206s
+sieving done.
+bucket time = 0.046170s, search time = 0.131772s, sort time = 0.016849s, insert time = 0.019357s
+bucket0 speed: 37426.900585 bucket/s, 948.901824 GFLOPS
+search0 speed: 13113.559785 bucket/s, 496.054967 GFLOPS
+num bucket = 1728, avg bucket size = 725
+bucket cost = 5667 dp/sol, search cost = 8456 dp/sol
+try_add2 = 135313, try_add3 = 18588, succ_add2 = 42883(1/3.16), succ_add3 = 11723(1/1.59)
+
+
+begin bgj1 sieve, sieving dimension = 75, pool size = 155007
+solution collect done, found 6506 solutions in 192 buckets, bucket time = 0.004559s, search time = 0.011199s
+solution collect done, found 6879 solutions in 192 buckets, bucket time = 0.004308s, search time = 0.010304s
+solution collect done, found 6048 solutions in 192 buckets, bucket time = 0.011482s, search time = 0.010313s
+solution collect done, found 6117 solutions in 192 buckets, bucket time = 0.004314s, search time = 0.010878s
+solution collect done, found 5447 solutions in 192 buckets, bucket time = 0.015061s, search time = 0.010150s
+solution collect done, found 5761 solutions in 192 buckets, bucket time = 0.004314s, search time = 0.011614s
+solution collect done, found 5266 solutions in 192 buckets, bucket time = 0.004270s, search time = 0.010725s
+solution collect done, found 5206 solutions in 192 buckets, bucket time = 0.004313s, search time = 0.011425s
+solution collect done, found 4873 solutions in 192 buckets, bucket time = 0.004361s, search time = 0.011692s
+sieving done.
+bucket time = 0.056982s, search time = 0.098300s, sort time = 0.016986s, insert time = 0.006806s
+bucket0 speed: 30325.365905 bucket/s, 657.570968 GFLOPS
+search0 speed: 17578.840285 bucket/s, 561.656498 GFLOPS
+num bucket = 1728, avg bucket size = 670
+bucket cost = 5147 dp/sol, search cost = 7585 dp/sol
+try_add2 = 129111, try_add3 = 18613, succ_add2 = 40547(1/3.18), succ_add3 = 11556(1/1.61)
+
+
+begin bgj1 sieve, sieving dimension = 74, pool size = 134240
+solution collect done, found 6487 solutions in 192 buckets, bucket time = 0.003672s, search time = 0.008924s
+solution collect done, found 6482 solutions in 192 buckets, bucket time = 0.003623s, search time = 0.008374s
+solution collect done, found 5701 solutions in 192 buckets, bucket time = 0.003327s, search time = 0.009342s
+solution collect done, found 5855 solutions in 192 buckets, bucket time = 0.003235s, search time = 0.008071s
+solution collect done, found 5254 solutions in 192 buckets, bucket time = 0.010739s, search time = 0.009214s
+solution collect done, found 5289 solutions in 192 buckets, bucket time = 0.003260s, search time = 0.008641s
+solution collect done, found 4795 solutions in 192 buckets, bucket time = 0.003224s, search time = 0.009362s
+sieving done.
+bucket time = 0.031080s, search time = 0.061928s, sort time = 0.011714s, insert time = 0.004962s
+bucket0 speed: 43243.243243 bucket/s, 800.609589 GFLOPS
+search0 speed: 21702.622400 bucket/s, 575.577033 GFLOPS
+num bucket = 1344, avg bucket size = 615
+bucket cost = 4528 dp/sol, search cost = 6487 dp/sol
+try_add2 = 95344, try_add3 = 13960, succ_add2 = 31079(1/3.07), succ_add3 = 8784(1/1.59)
+
+
+begin bgj1 sieve, sieving dimension = 73, pool size = 116255
+solution collect done, found 3057 solutions in 96 buckets, bucket time = 0.001845s, search time = 0.004282s
+solution collect done, found 3198 solutions in 96 buckets, bucket time = 0.001497s, search time = 0.004169s
+solution collect done, found 5506 solutions in 192 buckets, bucket time = 0.006537s, search time = 0.011903s
+solution collect done, found 2925 solutions in 96 buckets, bucket time = 0.001548s, search time = 0.003852s
+solution collect done, found 5175 solutions in 192 buckets, bucket time = 0.002927s, search time = 0.007137s
+solution collect done, found 5279 solutions in 192 buckets, bucket time = 0.010506s, search time = 0.008114s
+solution collect done, found 4610 solutions in 192 buckets, bucket time = 0.003046s, search time = 0.007504s
+solution collect done, found 5015 solutions in 192 buckets, bucket time = 0.002971s, search time = 0.007329s
+solution collect done, found 4457 solutions in 192 buckets, bucket time = 0.002978s, search time = 0.013021s
+sieving done.
+bucket time = 0.033855s, search time = 0.067311s, sort time = 0.011625s, insert time = 0.012681s
+bucket0 speed: 42534.337616 bucket/s, 673.054703 GFLOPS
+search0 speed: 21393.234390 bucket/s, 478.980410 GFLOPS
+num bucket = 1440, avg bucket size = 569
+bucket cost = 4272 dp/sol, search cost = 6045 dp/sol
+try_add2 = 96002, try_add3 = 14619, succ_add2 = 30253(1/3.17), succ_add3 = 8969(1/1.63)
+
+
+begin bgj1 sieve, sieving dimension = 72, pool size = 100680
+solution collect done, found 2759 solutions in 96 buckets, bucket time = 0.008319s, search time = 0.003625s
+solution collect done, found 2914 solutions in 96 buckets, bucket time = 0.001372s, search time = 0.003732s
+solution collect done, found 2677 solutions in 96 buckets, bucket time = 0.001341s, search time = 0.002886s
+solution collect done, found 2660 solutions in 96 buckets, bucket time = 0.001341s, search time = 0.003034s
+solution collect done, found 4950 solutions in 192 buckets, bucket time = 0.002719s, search time = 0.007969s
+solution collect done, found 2582 solutions in 96 buckets, bucket time = 0.001330s, search time = 0.004382s
+solution collect done, found 4616 solutions in 192 buckets, bucket time = 0.002622s, search time = 0.007153s
+solution collect done, found 4712 solutions in 192 buckets, bucket time = 0.002613s, search time = 0.007056s
+solution collect done, found 4284 solutions in 192 buckets, bucket time = 0.002677s, search time = 0.008001s
+sieving done.
+bucket time = 0.024334s, search time = 0.047838s, sort time = 0.008560s, insert time = 0.004146s
+bucket0 speed: 51286.266130 bucket/s, 693.095331 GFLOPS
+search0 speed: 26088.047159 bucket/s, 481.723651 GFLOPS
+num bucket = 1248, avg bucket size = 521
+bucket cost = 3911 dp/sol, search cost = 5344 dp/sol
+try_add2 = 77462, try_add3 = 12135, succ_add2 = 24686(1/3.14), succ_add3 = 7468(1/1.62)
+
+
+begin bgj1 sieve, sieving dimension = 71, pool size = 87191
+solution collect done, found 2805 solutions in 96 buckets, bucket time = 0.001765s, search time = 0.004154s
+solution collect done, found 2902 solutions in 96 buckets, bucket time = 0.001495s, search time = 0.003861s
+solution collect done, found 2666 solutions in 96 buckets, bucket time = 0.001480s, search time = 0.003648s
+solution collect done, found 2654 solutions in 96 buckets, bucket time = 0.001423s, search time = 0.003015s
+solution collect done, found 2416 solutions in 96 buckets, bucket time = 0.001464s, search time = 0.003777s
+solution collect done, found 2468 solutions in 96 buckets, bucket time = 0.001539s, search time = 0.004485s
+solution collect done, found 2290 solutions in 96 buckets, bucket time = 0.001178s, search time = 0.002991s
+solution collect done, found 2430 solutions in 96 buckets, bucket time = 0.001171s, search time = 0.002832s
+solution collect done, found 2281 solutions in 96 buckets, bucket time = 0.001188s, search time = 0.003096s
+sieving done.
+bucket time = 0.012703s, search time = 0.031859s, sort time = 0.005248s, insert time = 0.003419s
+bucket0 speed: 68015.429426 bucket/s, 786.539279 GFLOPS
+search0 speed: 27119.495276 bucket/s, 425.294871 GFLOPS
+num bucket = 864, avg bucket size = 484
+bucket cost = 3297 dp/sol, search cost = 4471 dp/sol
+try_add2 = 52478, try_add3 = 8633, succ_add2 = 17611(1/2.98), succ_add3 = 5301(1/1.63)
+
+
+begin bgj1 sieve, sieving dimension = 70, pool size = 75510
+solution collect done, found 2745 solutions in 96 buckets, bucket time = 0.001604s, search time = 0.003206s
+solution collect done, found 2829 solutions in 96 buckets, bucket time = 0.001372s, search time = 0.002952s
+solution collect done, found 2497 solutions in 96 buckets, bucket time = 0.001344s, search time = 0.002855s
+solution collect done, found 2620 solutions in 96 buckets, bucket time = 0.002660s, search time = 0.002602s
+solution collect done, found 2403 solutions in 96 buckets, bucket time = 0.001100s, search time = 0.002452s
+solution collect done, found 2461 solutions in 96 buckets, bucket time = 0.001081s, search time = 0.002749s
+solution collect done, found 2077 solutions in 96 buckets, bucket time = 0.001094s, search time = 0.002489s
+solution collect done, found 2126 solutions in 96 buckets, bucket time = 0.001071s, search time = 0.002547s
+solution collect done, found 2181 solutions in 96 buckets, bucket time = 0.001061s, search time = 0.002565s
+sieving done.
+bucket time = 0.012387s, search time = 0.024417s, sort time = 0.010768s, insert time = 0.003117s
+bucket0 speed: 69750.544926 bucket/s, 688.612504 GFLOPS
+search0 speed: 35385.182455 bucket/s, 462.082873 GFLOPS
+num bucket = 864, avg bucket size = 445
+bucket cost = 2981 dp/sol, search cost = 3944 dp/sol
+try_add2 = 49472, try_add3 = 8427, succ_add2 = 16803(1/2.94), succ_add3 = 5136(1/1.64)
+
+
+begin bgj1 sieve, sieving dimension = 69, pool size = 65393
+solution collect done, found 2631 solutions in 96 buckets, bucket time = 0.001138s, search time = 0.002177s
+solution collect done, found 2631 solutions in 96 buckets, bucket time = 0.001038s, search time = 0.006634s
+solution collect done, found 2411 solutions in 96 buckets, bucket time = 0.000974s, search time = 0.002122s
+solution collect done, found 2411 solutions in 96 buckets, bucket time = 0.001019s, search time = 0.001822s
+solution collect done, found 2206 solutions in 96 buckets, bucket time = 0.000980s, search time = 0.002089s
+solution collect done, found 2353 solutions in 96 buckets, bucket time = 0.000995s, search time = 0.002409s
+solution collect done, found 2128 solutions in 96 buckets, bucket time = 0.001008s, search time = 0.002158s
+solution collect done, found 2127 solutions in 96 buckets, bucket time = 0.005268s, search time = 0.002425s
+solution collect done, found 2046 solutions in 96 buckets, bucket time = 0.000981s, search time = 0.002111s
+sieving done.
+bucket time = 0.013401s, search time = 0.023947s, sort time = 0.010947s, insert time = 0.003145s
+bucket0 speed: 64472.800537 bucket/s, 542.726270 GFLOPS
+search0 speed: 36079.675951 bucket/s, 387.840345 GFLOPS
+num bucket = 864, avg bucket size = 406
+bucket cost = 2701 dp/sol, search cost = 3450 dp/sol
+try_add2 = 46725, try_add3 = 8443, succ_add2 = 15872(1/2.94), succ_add3 = 5072(1/1.66)
+
+
+begin bgj1 sieve, sieving dimension = 68, pool size = 56632
+solution collect done, found 2561 solutions in 96 buckets, bucket time = 0.001112s, search time = 0.001919s
+solution collect done, found 2548 solutions in 96 buckets, bucket time = 0.000927s, search time = 0.002259s
+solution collect done, found 2226 solutions in 96 buckets, bucket time = 0.000902s, search time = 0.002124s
+solution collect done, found 2383 solutions in 96 buckets, bucket time = 0.000927s, search time = 0.002248s
+solution collect done, found 2026 solutions in 96 buckets, bucket time = 0.000919s, search time = 0.002001s
+solution collect done, found 2072 solutions in 96 buckets, bucket time = 0.000941s, search time = 0.002176s
+solution collect done, found 1904 solutions in 96 buckets, bucket time = 0.000929s, search time = 0.001879s
+solution collect done, found 1928 solutions in 96 buckets, bucket time = 0.000910s, search time = 0.001759s
+sieving done.
+bucket time = 0.007567s, search time = 0.016365s, sort time = 0.005398s, insert time = 0.002513s
+bucket0 speed: 101493.326285 bucket/s, 729.327853 GFLOPS
+search0 speed: 46929.422548 bucket/s, 431.765394 GFLOPS
+num bucket = 768, avg bucket size = 380
+bucket cost = 2468 dp/sol, search cost = 3161 dp/sol
+try_add2 = 39510, try_add3 = 7299, succ_add2 = 13241(1/2.98), succ_add3 = 4407(1/1.66)
+
+
+begin bgj1 sieve, sieving dimension = 67, pool size = 49045
+solution collect done, found 2304 solutions in 96 buckets, bucket time = 0.000981s, search time = 0.001384s
+solution collect done, found 2468 solutions in 96 buckets, bucket time = 0.000845s, search time = 0.001652s
+solution collect done, found 2043 solutions in 96 buckets, bucket time = 0.000851s, search time = 0.001645s
+solution collect done, found 2239 solutions in 96 buckets, bucket time = 0.000858s, search time = 0.001557s
+solution collect done, found 1984 solutions in 96 buckets, bucket time = 0.000865s, search time = 0.001689s
+solution collect done, found 2155 solutions in 96 buckets, bucket time = 0.000830s, search time = 0.001816s
+sieving done.
+bucket time = 0.005230s, search time = 0.009743s, sort time = 0.003800s, insert time = 0.006202s
+bucket0 speed: 110133.843212 bucket/s, 677.049046 GFLOPS
+search0 speed: 59119.367751 bucket/s, 448.580711 GFLOPS
+num bucket = 576, avg bucket size = 347
+bucket cost = 2150 dp/sol, search cost = 2654 dp/sol
+try_add2 = 28199, try_add3 = 5366, succ_add2 = 9947(1/2.83), succ_add3 = 3246(1/1.65)
+
+
+begin bgj1 sieve, sieving dimension = 66, pool size = 42474
+solution collect done, found 2336 solutions in 96 buckets, bucket time = 0.000877s, search time = 0.001596s
+solution collect done, found 2263 solutions in 96 buckets, bucket time = 0.001899s, search time = 0.001174s
+solution collect done, found 2084 solutions in 96 buckets, bucket time = 0.000789s, search time = 0.001468s
+solution collect done, found 2229 solutions in 96 buckets, bucket time = 0.000806s, search time = 0.001341s
+solution collect done, found 1834 solutions in 96 buckets, bucket time = 0.000792s, search time = 0.001376s
+solution collect done, found 1968 solutions in 96 buckets, bucket time = 0.000773s, search time = 0.001705s
+sieving done.
+bucket time = 0.005936s, search time = 0.008660s, sort time = 0.004324s, insert time = 0.001621s
+bucket0 speed: 97035.040431 bucket/s, 507.605164 GFLOPS
+search0 speed: 66512.702079 bucket/s, 427.789114 GFLOPS
+num bucket = 576, avg bucket size = 322
+bucket cost = 1927 dp/sol, search cost = 2370 dp/sol
+try_add2 = 26920, try_add3 = 5224, succ_add2 = 9487(1/2.84), succ_add3 = 3227(1/1.62)
+
+
+begin bgj1 sieve, sieving dimension = 65, pool size = 36783
+solution collect done, found 2164 solutions in 96 buckets, bucket time = 0.000813s, search time = 0.001386s
+solution collect done, found 2080 solutions in 96 buckets, bucket time = 0.000732s, search time = 0.001240s
+solution collect done, found 1925 solutions in 96 buckets, bucket time = 0.000742s, search time = 0.001153s
+solution collect done, found 1840 solutions in 96 buckets, bucket time = 0.000742s, search time = 0.001128s
+solution collect done, found 1885 solutions in 96 buckets, bucket time = 0.000739s, search time = 0.001241s
+solution collect done, found 1587 solutions in 96 buckets, bucket time = 0.000727s, search time = 0.001102s
+sieving done.
+bucket time = 0.004495s, search time = 0.007250s, sort time = 0.007329s, insert time = 0.001468s
+bucket0 speed: 128142.380423 bucket/s, 571.226384 GFLOPS
+search0 speed: 79448.275862 bucket/s, 427.249247 GFLOPS
+num bucket = 576, avg bucket size = 297
+bucket cost = 1847 dp/sol, search cost = 2228 dp/sol
+try_add2 = 25009, try_add3 = 5152, succ_add2 = 8534(1/2.93), succ_add3 = 2947(1/1.75)
+
+
+begin bgj1 sieve, sieving dimension = 64, pool size = 31855
+solution collect done, found 2072 solutions in 96 buckets, bucket time = 0.000693s, search time = 0.000952s
+solution collect done, found 1868 solutions in 96 buckets, bucket time = 0.000694s, search time = 0.000804s
+solution collect done, found 1811 solutions in 96 buckets, bucket time = 0.000708s, search time = 0.001184s
+solution collect done, found 1681 solutions in 96 buckets, bucket time = 0.000671s, search time = 0.001124s
+sieving done.
+bucket time = 0.002766s, search time = 0.004064s, sort time = 0.006517s, insert time = 0.001056s
+bucket0 speed: 138828.633406 bucket/s, 528.347984 GFLOPS
+search0 speed: 94488.188976 bucket/s, 419.707397 GFLOPS
+num bucket = 384, avg bucket size = 272
+bucket cost = 1649 dp/sol, search cost = 1925 dp/sol
+try_add2 = 15671, try_add3 = 3266, succ_add2 = 5524(1/2.84), succ_add3 = 1908(1/1.71)
+
+
+begin bgj1 sieve, sieving dimension = 63, pool size = 27587
+solution collect done, found 2120 solutions in 96 buckets, bucket time = 0.000811s, search time = 0.000923s
+solution collect done, found 1905 solutions in 96 buckets, bucket time = 0.000718s, search time = 0.001016s
+solution collect done, found 1855 solutions in 96 buckets, bucket time = 0.000727s, search time = 0.000979s
+solution collect done, found 1686 solutions in 96 buckets, bucket time = 0.000720s, search time = 0.001060s
+sieving done.
+bucket time = 0.002976s, search time = 0.003978s, sort time = 0.005103s, insert time = 0.001028s
+bucket0 speed: 129032.258065 bucket/s, 419.150858 GFLOPS
+search0 speed: 96530.920060 bucket/s, 358.295176 GFLOPS
+num bucket = 384, avg bucket size = 251
+bucket cost = 1404 dp/sol, search cost = 1605 dp/sol
+try_add2 = 15728, try_add3 = 3567, succ_add2 = 5605(1/2.81), succ_add3 = 1961(1/1.82)
+
+
+begin bgj1 sieve, sieving dimension = 62, pool size = 23891
+solution collect done, found 1937 solutions in 96 buckets, bucket time = 0.000623s, search time = 0.000780s
+solution collect done, found 1849 solutions in 96 buckets, bucket time = 0.000592s, search time = 0.000813s
+solution collect done, found 1760 solutions in 96 buckets, bucket time = 0.000595s, search time = 0.000956s
+solution collect done, found 1620 solutions in 96 buckets, bucket time = 0.000587s, search time = 0.000846s
+sieving done.
+bucket time = 0.002397s, search time = 0.003395s, sort time = 0.007190s, insert time = 0.001120s
+bucket0 speed: 160200.250313 bucket/s, 442.602906 GFLOPS
+search0 speed: 113107.511046 bucket/s, 360.859639 GFLOPS
+num bucket = 384, avg bucket size = 235
+bucket cost = 1281 dp/sol, search cost = 1480 dp/sol
+try_add2 = 15017, try_add3 = 3480, succ_add2 = 5174(1/2.90), succ_add3 = 1992(1/1.75)
+
+
+begin bgj1 sieve, sieving dimension = 61, pool size = 20690
+solution collect done, found 1753 solutions in 96 buckets, bucket time = 0.000601s, search time = 0.000931s
+solution collect done, found 1750 solutions in 96 buckets, bucket time = 0.000545s, search time = 0.000747s
+solution collect done, found 1598 solutions in 96 buckets, bucket time = 0.000547s, search time = 0.000744s
+sieving done.
+bucket time = 0.001693s, search time = 0.002422s, sort time = 0.002698s, insert time = 0.000822s
+bucket0 speed: 170112.226816 bucket/s, 402.288048 GFLOPS
+search0 speed: 118909.991742 bucket/s, 312.355939 GFLOPS
+num bucket = 288, avg bucket size = 215
+bucket cost = 1175 dp/sol, search cost = 1305 dp/sol
+try_add2 = 10456, try_add3 = 2443, succ_add2 = 3727(1/2.81), succ_add3 = 1374(1/1.78)
+
+
+begin bgj1 sieve, sieving dimension = 60, pool size = 17918
+solution collect done, found 1944 solutions in 96 buckets, bucket time = 0.000547s, search time = 0.000664s
+solution collect done, found 1673 solutions in 96 buckets, bucket time = 0.000529s, search time = 0.000703s
+solution collect done, found 1491 solutions in 96 buckets, bucket time = 0.000556s, search time = 0.000609s
+sieving done.
+bucket time = 0.001632s, search time = 0.001976s, sort time = 0.003546s, insert time = 0.000681s
+bucket0 speed: 176470.588235 bucket/s, 355.898896 GFLOPS
+search0 speed: 145748.987854 bucket/s, 329.661383 GFLOPS
+num bucket = 288, avg bucket size = 202
+bucket cost = 1017 dp/sol, search cost = 1141 dp/sol
+try_add2 = 10162, try_add3 = 2330, succ_add2 = 3759(1/2.70), succ_add3 = 1349(1/1.73)
+
+
+begin bgj1 sieve, sieving dimension = 59, pool size = 15518
+solution collect done, found 1830 solutions in 96 buckets, bucket time = 0.000513s, search time = 0.000597s
+solution collect done, found 1635 solutions in 96 buckets, bucket time = 0.000509s, search time = 0.000600s
+solution collect done, found 1444 solutions in 96 buckets, bucket time = 0.000517s, search time = 0.000565s
+solution collect done, found 1290 solutions in 96 buckets, bucket time = 0.000510s, search time = 0.000587s
+sieving done.
+bucket time = 0.002049s, search time = 0.002349s, sort time = 0.004089s, insert time = 0.000851s
+bucket0 speed: 187408.491947 bucket/s, 321.186130 GFLOPS
+search0 speed: 163473.818646 bucket/s, 300.835118 GFLOPS
+num bucket = 384, avg bucket size = 183
+bucket cost = 966 dp/sol, search cost = 1037 dp/sol
+try_add2 = 12870, try_add3 = 3273, succ_add2 = 4411(1/2.92), succ_add3 = 1788(1/1.83)
+
+
+begin bgj1 sieve, sieving dimension = 58, pool size = 13439
+solution collect done, found 1534 solutions in 96 buckets, bucket time = 0.000566s, search time = 0.000701s
+sieving done.
+bucket time = 0.000566s, search time = 0.000701s, sort time = 0.001965s, insert time = 0.000231s
+bucket0 speed: 169611.307420 bucket/s, 246.252062 GFLOPS
+search0 speed: 136947.218260 bucket/s, 211.983297 GFLOPS
+num bucket = 96, avg bucket size = 171
+bucket cost = 841 dp/sol, search cost = 896 dp/sol
+try_add2 = 2863, try_add3 = 713, succ_add2 = 1125(1/2.54), succ_add3 = 409(1/1.74)
+
+
+begin bgj1 sieve, sieving dimension = 57, pool size = 11638
+solution collect done, found 1713 solutions in 96 buckets, bucket time = 0.000497s, search time = 0.000459s
+solution collect done, found 1427 solutions in 96 buckets, bucket time = 0.000462s, search time = 0.000481s
+sieving done.
+bucket time = 0.000959s, search time = 0.000940s, sort time = 0.002000s, insert time = 0.000432s
+bucket0 speed: 200208.550574 bucket/s, 248.613646 GFLOPS
+search0 speed: 204255.319149 bucket/s, 254.570859 GFLOPS
+num bucket = 192, avg bucket size = 154
+bucket cost = 715 dp/sol, search cost = 717 dp/sol
+try_add2 = 5487, try_add3 = 1507, succ_add2 = 2242(1/2.45), succ_add3 = 898(1/1.68)
+
+
+begin bgj1 sieve, sieving dimension = 56, pool size = 10079
+solution collect done, found 1558 solutions in 96 buckets, bucket time = 0.000487s, search time = 0.000434s
+solution collect done, found 1368 solutions in 96 buckets, bucket time = 0.000587s, search time = 0.000463s
+solution collect done, found 1146 solutions in 96 buckets, bucket time = 0.000494s, search time = 0.000421s
+sieving done.
+bucket time = 0.001568s, search time = 0.001318s, sort time = 0.001384s, insert time = 0.000595s
+bucket0 speed: 183673.469388 bucket/s, 193.840691 GFLOPS
+search0 speed: 218512.898331 bucket/s, 220.243447 GFLOPS
+num bucket = 288, avg bucket size = 140
+bucket cost = 715 dp/sol, search cost = 683 dp/sol
+try_add2 = 8021, try_add3 = 2308, succ_add2 = 2822(1/2.84), succ_add3 = 1250(1/1.85)
+
+
+begin bgj1 sieve, sieving dimension = 55, pool size = 8729
+solution collect done, found 1483 solutions in 96 buckets, bucket time = 0.000433s, search time = 0.000407s
+solution collect done, found 1280 solutions in 96 buckets, bucket time = 0.000435s, search time = 0.000421s
+sieving done.
+bucket time = 0.000868s, search time = 0.000828s, sort time = 0.000869s, insert time = 0.000402s
+bucket0 speed: 221198.156682 bucket/s, 199.595904 GFLOPS
+search0 speed: 231884.057971 bucket/s, 212.107558 GFLOPS
+num bucket = 192, avg bucket size = 135
+bucket cost = 612 dp/sol, search cost = 620 dp/sol
+try_add2 = 5262, try_add3 = 1578, succ_add2 = 1892(1/2.78), succ_add3 = 871(1/1.81)
+
+
+begin bgj1 sieve, sieving dimension = 54, pool size = 7559
+solution collect done, found 1379 solutions in 96 buckets, bucket time = 0.000461s, search time = 0.000478s
+sieving done.
+bucket time = 0.000461s, search time = 0.000478s, sort time = 0.000368s, insert time = 0.000180s
+bucket0 speed: 208242.950108 bucket/s, 158.328296 GFLOPS
+search0 speed: 200836.820084 bucket/s, 137.134810 GFLOPS
+num bucket = 96, avg bucket size = 117
+bucket cost = 526 dp/sol, search cost = 472 dp/sol
+try_add2 = 2441, try_add3 = 743, succ_add2 = 956(1/2.55), succ_add3 = 423(1/1.76)
+
+
+begin bgj1 sieve, sieving dimension = 53, pool size = 6546
+solution collect done, found 1467 solutions in 96 buckets, bucket time = 0.000454s, search time = 0.000408s
+solution collect done, found 1179 solutions in 96 buckets, bucket time = 0.000404s, search time = 0.000380s
+sieving done.
+bucket time = 0.000858s, search time = 0.000788s, sort time = 0.000425s, insert time = 0.000412s
+bucket0 speed: 223776.223776 bucket/s, 146.674735 GFLOPS
+search0 speed: 243654.822335 bucket/s, 158.421731 GFLOPS
+num bucket = 192, avg bucket size = 116
+bucket cost = 481 dp/sol, search cost = 477 dp/sol
+try_add2 = 4753, try_add3 = 1482, succ_add2 = 1801(1/2.64), succ_add3 = 845(1/1.75)
+
+
+begin bgj1 sieve, sieving dimension = 52, pool size = 5669
+solution collect done, found 1166 solutions in 96 buckets, bucket time = 0.000401s, search time = 0.000432s
+sieving done.
+bucket time = 0.000401s, search time = 0.000432s, sort time = 0.000088s, insert time = 0.000161s
+bucket0 speed: 239401.496259 bucket/s, 131.451875 GFLOPS
+search0 speed: 222222.222222 bucket/s, 119.809872 GFLOPS
+num bucket = 96, avg bucket size = 107
+bucket cost = 466 dp/sol, search cost = 458 dp/sol
+try_add2 = 2263, try_add3 = 692, succ_add2 = 811(1/2.79), succ_add3 = 355(1/1.95)
+
+
+begin bgj1 sieve, sieving dimension = 51, pool size = 4910
+solution collect done, found 1098 solutions in 96 buckets, bucket time = 0.000407s, search time = 0.000367s
+sieving done.
+bucket time = 0.000407s, search time = 0.000367s, sort time = 0.000084s, insert time = 0.000137s
+bucket0 speed: 235872.235872 bucket/s, 110.016701 GFLOPS
+search0 speed: 261580.381471 bucket/s, 110.117729 GFLOPS
+num bucket = 96, avg bucket size = 96
+bucket cost = 429 dp/sol, search cost = 387 dp/sol
+try_add2 = 1977, try_add3 = 661, succ_add2 = 745(1/2.65), succ_add3 = 353(1/1.87)
+
+
+__pump_red_done: runtime = 314.347951s, num_threads = 64, total_cost = 20118.268864Ts, dPot = 63.830048
+time: 314.458369s
